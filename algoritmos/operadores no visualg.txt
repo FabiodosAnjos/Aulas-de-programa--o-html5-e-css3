@@ -1,0 +1,12 @@
+operadores aritmeticos do visualg:
+ABS: Valores absolutos
+Exp: Exponênciação
+Int: Valores inteiros
+RaizQ: Raiz Quadrada
+Pi: Retorna pi
+Sen: Seno (rad)
+Cos: Cosseno (rad)
+Tan: Tangente (rad)
+GraupRad: Graus para rad
+
+<>: Sinal de diferente

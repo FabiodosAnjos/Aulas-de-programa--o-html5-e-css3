@@ -1,0 +1,44 @@
+@charset "UTF8";
+
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: linear-gradient(green, white);
+}
+
+main {
+
+}
+
+nav > a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: green;
+    text-align: justify;
+}
+nav > a:hover{
+    text-decoration: underline;
+}
+
+body {
+    background-color: lightyellow;
+}
+main {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: auto;
+}
+main > h1 {
+    font-family: "idroid";
+    color: rgb(119, 226, 119);
+    background-image: linear-gradient(to right, green, white);
+}
+
+section {
+    background-color: white;
+    
+}
+div {
+    background-color: lightgreen;
+}

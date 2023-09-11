@@ -1,0 +1,26 @@
+Algoritmo "quantos entre 0 e 10"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 20/05/2023
+Var
+// Seção de Declarações das variáveis 
+   c, v, tot010, Simp, imp: inteiro
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+     tot010 <- 0
+     imp <- 0
+     para c <- 1 até 6 faca
+        escreva("Digite um valor: ")
+        leia(v)
+           se (v >= 0) e (v <= 10) entao
+           tot010 <- tot010 + 1
+           se v % = 0 entao
+           imp <- imp + 1
+           fimse
+     fimpara
+     escreval("Ao todo foram", tot010, " valores entre 0 e 10")
+     escreval("O total de numeros impares foi", imp)
+Fimalgoritmo

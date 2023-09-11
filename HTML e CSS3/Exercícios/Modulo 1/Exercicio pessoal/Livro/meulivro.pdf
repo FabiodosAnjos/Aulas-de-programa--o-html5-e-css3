@@ -1,0 +1,1337 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark"  data-a11y-animated-images="system">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+  <link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+  <link rel="preconnect" href="https://github.githubassets.com" crossorigin>
+  <link rel="preconnect" href="https://avatars.githubusercontent.com">
+
+  
+
+
+  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/light-8cafbcbd78f4.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark-31dc14e38457.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-71414d661fe2.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-ba96c7f1d660.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-7471c22cdb6a.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-80180bed15ed.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-e89b9cdecb75.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-77f15e9154df.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-f598f8dd18ae.css" />
+  
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-primitives-fb1d51d1ef66.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-05fec56eb582.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-280e28c4e8be.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-21dc4e5af19d.css" />
+  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/code-de844c0f0a88.css" />
+
+  
+
+  <script type="application/json" id="client-env">{"locale":"en","featureFlags":["failbot_handle_non_errors","fix_react_title","geojson_azure_maps","image_metric_tracking","turbo_experiment_risky","use_scroll_restoration"]}</script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-669f27f4ac7a.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_dompurify_dist_purify_js-64d590970fa6.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_stacktrace-parser_dist_stack-trace-parser_esm_js-node_modules_github_bro-a4c183-ae93d3fba59c.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_soft-nav_soft-nav_ts-db8b037dfa8f.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/environment-c2140938ffde.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_selector-observer_dist_index_esm_js-2646a2c533e3.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_focus-zone_js-d55308df5023.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_relative-time-element_dist_index_js-99e288659d4f.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_fzy_js_index_js-node_modules_github_markdown-toolbar-element_dist_index_js-d2119e75298d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_auto-complete-element-5b3870-9b38c0812424.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-8873b7-5771678648e0.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_github_text-ex-3415a8-7ecc10fb88d0.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_view-components_app_components_primer_primer_js-node_modules_gith-e7a1e2-0c753046063c.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-82e8d1a2fb81.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-87b3d4dbff3c.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-9d9fe1859ce5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_hydro-analytics-client_dist_analytics-client_js-node_modules_gith-f3aee1-fd3c22610e40.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_morphdom_dist_morphdom-esm_js-b1fdd7158cf0.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_alive-client_dist-bf5aa2-424aa982deef.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-1f4793023fcd.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_scroll-anchoring_dist_scro-52dc4b-e1e33bfc0b7e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_color-convert_index_js-35b3ae68c408.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_paste-markdown_dist_index_esm_js-node_modules_github_quote-select-7a8e2b-f036384374ea.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_updatable-content_ts-126aeb5c22c9.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_task-list_ts-app_assets_modules_github_onfocus_ts-app_ass-079b43-c46fa3ecf26e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_sticky-scroll-into-view_ts-050ad6637d58.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_blob-anchor_ts-app_assets_modules_github_cookies_ts-app_assets_modu-4c025d-23cbb87a0af9.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-f22ac6b94445.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_include-2e2258-113626c1b575.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-2e6589c2abc8.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-06ff531-fe0b8ccc90a5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-global-f57687007bfc.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/code-menu-edcbb51ff424.js"></script>
+  
+  <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-lib-210c4b5934c3.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_octicons-react_dist_index_esm_js-node_modules_primer_react_lib-es-4edbf7-5ec044a77573.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Button_index_js-de75df76800b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ActionList_index_js-cf279ec390fe.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Overlay_Overlay_js-node_modules_primer_react_lib-es-c25505-7256d09cc6de.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_TextInput_TextInput_js-bda16ad5f5c0.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ActionMenu_js-fb2356b308cf.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_scroll-into-view_js-node_modules_primer_react_-04bb1b-f1078ffd63d6.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_FormControl_FormControl_js-3ec7b5d8c7d7.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_react-router-dom_dist_index_js-4a785319b497.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Heading_Heading_js-node_modules_primer_react_lib-es-20c766-3952b4d6d547.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Dialog_ConfirmationDialog_js-a160e95ee1e8.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Dialog_js-node_modules_primer_react_lib-esm_TabNav_-8321f5-f6c3aa4bc5a3.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_TreeView_TreeView_js-2d5a3fb3b8ec.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Label_Label_js-node_modules_primer_react_lib-esm_Na-46dd9b-87cea263d02a.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_AvatarStack_AvatarStack_js-node_modules_primer_reac-0b4173-d8ba3894d9e9.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Avatar_Avatar_js-node_modules_primer_react_lib-esm_-df8a0c-dd641d38ef01.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_create-browser-history_ts-ui_packages_react-core_deferred-registry_ts--ebbb92-50880bdc5744.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_register-app_ts-93cc6fb20bd5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_ref-selector_RefSelector_tsx-ui_packages_safe-html_SafeHTML_tsx-5e5aa97558ac.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_blackbird-monolith_utilities_append-and-focus-search-bar_ts-app_assets_mod-a1e934-d2871ae49f44.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_trusted-types-policies_policy_ts-ui_packages_trusted-types_trusted-types_ts-app_a-af1c83-5ac8c5dd1d3a.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-code-view-69c93727396c.js"></script>
+
+
+  <title>html-css/exercicios/modulo-01/ex010/livro/meulivro.pdf at master · gustavoguanabara/html-css · GitHub</title>
+
+
+
+  <meta name="route-pattern" content="/:user_id/:repository/blob/*name(/*path)">
+
+    
+  <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
+
+
+  <meta name="request-id" content="5D5B:4BBB:B66FF5:C9419F:64C3FBFE" data-pjax-transient="true"/><meta name="html-safe-nonce" content="3061c839a1359aef768982fb3aedfd50ee77b1cfa9900c6fce5f35f879ce2fab" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9ndXN0YXZvZ3VhbmFiYXJhL2h0bWwtY3NzL3RyZWUvbWFzdGVyL2V4ZXJjaWNpb3MvbW9kdWxvLTAxL2V4MDEwL2xpdnJvIiwicmVxdWVzdF9pZCI6IjVENUI6NEJCQjpCNjZGRjU6Qzk0MTlGOjY0QzNGQkZFIiwidmlzaXRvcl9pZCI6IjQ0MDk1NzU4NDk5ODY3MjQwNzciLCJyZWdpb25fZWRnZSI6ImJyYXppbHNvdXRoIiwicmVnaW9uX3JlbmRlciI6ImJyYXppbHNvdXRoIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="3b9c88c2bc1b435f3dbaa3383034762fe7072541b618b810522ddeb8140979e7" data-pjax-transient="true"/>
+
+
+    <meta name="hovercard-subject-tag" content="repository:246128823" data-turbo-transient>
+
+
+  <meta name="github-keyboard-shortcuts" content="repository,source-code,file-tree" data-turbo-transient="true" />
+  
+
+  <meta name="selected-link" value="repo_source" data-turbo-transient>
+  <link rel="assets" href="https://github.githubassets.com/">
+
+    <meta name="google-site-verification" content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY">
+  <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+  <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+  <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+  <meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I">
+
+<meta name="octolytics-url" content="https://collector.github.com/github/collect" />
+
+  <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-turbo-transient="true" />
+
+  
+
+
+
+
+  
+
+    <meta name="user-login" content="">
+
+  
+
+    <meta name="viewport" content="width=device-width">
+    
+      <meta name="description" content="Curso de HTML5 e CSS3. Contribute to gustavoguanabara/html-css development by creating an account on GitHub.">
+      <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+    <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+    <meta property="fb:app_id" content="1401488693436528">
+    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/gustavoguanabara/html-css/blob/master/exercicios/modulo-01/ex010/livro/meulivro.pdf" />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/9217ecdd48322d8ddccaadda143a3ea0749688b2e91b8f5e4d21168926585a30/gustavoguanabara/html-css" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="html-css/exercicios/modulo-01/ex010/livro/meulivro.pdf at master · gustavoguanabara/html-css" /><meta name="twitter:description" content="Curso de HTML5 e CSS3. Contribute to gustavoguanabara/html-css development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/9217ecdd48322d8ddccaadda143a3ea0749688b2e91b8f5e4d21168926585a30/gustavoguanabara/html-css" /><meta property="og:image:alt" content="Curso de HTML5 e CSS3. Contribute to gustavoguanabara/html-css development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="html-css/exercicios/modulo-01/ex010/livro/meulivro.pdf at master · gustavoguanabara/html-css" /><meta property="og:url" content="https://github.com/gustavoguanabara/html-css/blob/master/exercicios/modulo-01/ex010/livro/meulivro.pdf" /><meta property="og:description" content="Curso de HTML5 e CSS3. Contribute to gustavoguanabara/html-css development by creating an account on GitHub." />
+      
+
+
+
+        <meta name="hostname" content="github.com">
+
+
+
+        <meta name="expected-hostname" content="github.com">
+
+    <meta name="enabled-features" content="FAILBOT_HANDLE_NON_ERRORS,FIX_REACT_TITLE,GEOJSON_AZURE_MAPS,IMAGE_METRIC_TRACKING,TURBO_EXPERIMENT_RISKY,USE_SCROLL_RESTORATION">
+
+
+  <meta http-equiv="x-pjax-version" content="f6255d48eaf9eef3e3d30e79eb1e52d007c863110c3202d7a770561535549227" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-csp-version" content="d578db686ab50f6f79f53006983acd122464dfeec8531d38fe12d520f9cbf1bc" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="47de9ea4ba354274ad6fb00f07b40f43b45df955eb0f7b9cfe16932b5e192042" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="5cd28c8ec5b1ca04c135cde31b040edc44fbf8fa3a961790d804422a05574ce5" data-turbo-track="reload">
+
+  <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
+
+      <meta name="turbo-cache-control" content="no-cache" data-turbo-transient>
+    <meta data-hydrostats="publish">
+
+  <meta name="go-import" content="github.com/gustavoguanabara/html-css git https://github.com/gustavoguanabara/html-css.git">
+
+  <meta name="octolytics-dimension-user_id" content="8683378" /><meta name="octolytics-dimension-user_login" content="gustavoguanabara" /><meta name="octolytics-dimension-repository_id" content="246128823" /><meta name="octolytics-dimension-repository_nwo" content="gustavoguanabara/html-css" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="246128823" /><meta name="octolytics-dimension-repository_network_root_nwo" content="gustavoguanabara/html-css" />
+
+
+
+  <meta name="turbo-body-classes" content="logged-out env-production page-responsive">
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <meta name="browser-optimizely-client-errors-url" content="https://api.github.com/_private/browser/optimizely_client/errors">
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+  <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
+  <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg">
+
+<meta name="theme-color" content="#1e2327">
+<meta name="color-scheme" content="light dark" />
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-out env-production page-responsive" style="word-wrap: break-word;">
+    <div data-turbo-body class="logged-out env-production page-responsive" style="word-wrap: break-word;">
+      
+
+
+    <div class="position-relative js-header-wrapper ">
+      <a href="#start-of-content" class="px-2 py-4 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content">Skip to content</a>
+      <span data-view-component="true" class="progress-pjax-loader Progress position-fixed width-full">
+    <span style="width: 0%;" data-view-component="true" class="Progress-item progress-pjax-loader-bar left-0 top-0 color-bg-accent-emphasis"></span>
+</span>      
+      
+
+
+      
+
+        
+
+            
+
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_github_memoize_dist_esm_in-687f35-d131f0b6de8e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/sessions-2638decb9ee5.js"></script>
+<header class="Header-old header-logged-out js-details-container Details position-relative f4 py-3" role="banner" data-color-mode=light data-light-theme=light data-dark-theme=dark>
+  <button type="button" class="Header-backdrop d-lg-none border-0 position-fixed top-0 left-0 width-full height-full js-details-target" aria-label="Toggle navigation">
+    <span class="d-none">Toggle navigation</span>
+  </button>
+
+  <div class=" d-flex flex-column flex-lg-row flex-items-center p-responsive height-full position-relative z-1">
+    <div class="d-flex flex-justify-between flex-items-center width-full width-lg-auto">
+      <a class="mr-lg-3 color-fg-inherit flex-order-2" href="https://github.com/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark">
+        <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github">
+    <path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path>
+</svg>
+      </a>
+
+        <div class="flex-1">
+          <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
+            class="d-inline-block d-lg-none flex-order-1 f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/gustavoguanabara/html-css/blob/master/exercicios/modulo-01/ex010/livro/meulivro.pdf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9e5512bd108a1240c99302a8c1a12909a29c8d0dcc0a333a1e3f52813e1ece4e"
+          >
+            Sign&nbsp;up
+          </a>
+        </div>
+
+      <div class="flex-1 flex-order-2 text-right">
+          <button aria-label="Toggle navigation" aria-expanded="false" type="button" data-view-component="true" class="js-details-target Button--link Button--medium Button d-lg-none color-fg-inherit p-1">    <span class="Button-content">
+      <span class="Button-label"><div class="HeaderMenu-toggle-bar rounded my-1"></div>
+            <div class="HeaderMenu-toggle-bar rounded my-1"></div>
+            <div class="HeaderMenu-toggle-bar rounded my-1"></div></span>
+    </span>
+</button>  
+      </div>
+    </div>
+
+
+    <div class="HeaderMenu--logged-out p-responsive height-fit position-lg-relative d-lg-flex flex-column flex-auto pt-7 pb-4 top-0">
+      <div class="header-menu-wrapper d-flex flex-column flex-self-end flex-lg-row flex-justify-between flex-auto p-3 p-lg-0 rounded rounded-lg-0 mt-3 mt-lg-0">
+          <nav class="mt-0 px-3 px-lg-0 mb-3 mb-lg-0" aria-label="Global">
+            <ul class="d-lg-flex list-style-none">
+                <li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
+      <button type="button" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-3 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" aria-expanded="false">
+        Product
+        <svg opacity="0.5" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-down HeaderMenu-icon ml-1">
+    <path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"></path>
+</svg>
+      </button>
+      <div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 py-2 py-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 d-lg-flex dropdown-menu-wide">
+          <div class="px-lg-4 border-lg-right mb-4 mb-lg-0 pr-lg-7">
+            <ul class="list-style-none f5" >
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_cta:Actions;&quot;}" href="/features/actions">
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-workflow color-fg-subtle mr-3">
+    <path d="M1 3a2 2 0 0 1 2-2h6.5a2 2 0 0 1 2 2v6.5a2 2 0 0 1-2 2H7v4.063C7 16.355 7.644 17 8.438 17H12.5v-2.5a2 2 0 0 1 2-2H21a2 2 0 0 1 2 2V21a2 2 0 0 1-2 2h-6.5a2 2 0 0 1-2-2v-2.5H8.437A2.939 2.939 0 0 1 5.5 15.562V11.5H3a2 2 0 0 1-2-2Zm2-.5a.5.5 0 0 0-.5.5v6.5a.5.5 0 0 0 .5.5h6.5a.5.5 0 0 0 .5-.5V3a.5.5 0 0 0-.5-.5ZM14.5 14a.5.5 0 0 0-.5.5V21a.5.5 0 0 0 .5.5H21a.5.5 0 0 0 .5-.5v-6.5a.5.5 0 0 0-.5-.5Z"></path>
+</svg>
+      <div>
+        <div class="color-fg-default h4">Actions</div>
+        Automate any workflow
+      </div>
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_cta:Packages;&quot;}" href="/features/packages">
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-package color-fg-subtle mr-3">
+    <path d="M12.876.64V.639l8.25 4.763c.541.313.875.89.875 1.515v9.525a1.75 1.75 0 0 1-.875 1.516l-8.25 4.762a1.748 1.748 0 0 1-1.75 0l-8.25-4.763a1.75 1.75 0 0 1-.875-1.515V6.917c0-.625.334-1.202.875-1.515L11.126.64a1.748 1.748 0 0 1 1.75 0Zm-1 1.298L4.251 6.34l7.75 4.474 7.75-4.474-7.625-4.402a.248.248 0 0 0-.25 0Zm.875 19.123 7.625-4.402a.25.25 0 0 0 .125-.216V7.639l-7.75 4.474ZM3.501 7.64v8.803c0 .09.048.172.125.216l7.625 4.402v-8.947Z"></path>
+</svg>
+      <div>
+        <div class="color-fg-default h4">Packages</div>
+        Host and manage packages
+      </div>
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_cta:Security;&quot;}" href="/features/security">
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-shield-check color-fg-subtle mr-3">
+    <path d="M16.53 9.78a.75.75 0 0 0-1.06-1.06L11 13.19l-1.97-1.97a.75.75 0 0 0-1.06 1.06l2.5 2.5a.75.75 0 0 0 1.06 0l5-5Z"></path><path d="m12.54.637 8.25 2.675A1.75 1.75 0 0 1 22 4.976V10c0 6.19-3.771 10.704-9.401 12.83a1.704 1.704 0 0 1-1.198 0C5.77 20.705 2 16.19 2 10V4.976c0-.758.489-1.43 1.21-1.664L11.46.637a1.748 1.748 0 0 1 1.08 0Zm-.617 1.426-8.25 2.676a.249.249 0 0 0-.173.237V10c0 5.46 3.28 9.483 8.43 11.426a.199.199 0 0 0 .14 0C17.22 19.483 20.5 15.461 20.5 10V4.976a.25.25 0 0 0-.173-.237l-8.25-2.676a.253.253 0 0 0-.154 0Z"></path>
+</svg>
+      <div>
+        <div class="color-fg-default h4">Security</div>
+        Find and fix vulnerabilities
+      </div>
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-codespaces color-fg-subtle mr-3">
+    <path d="M3.5 3.75C3.5 2.784 4.284 2 5.25 2h13.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0 1 18.75 13H5.25a1.75 1.75 0 0 1-1.75-1.75Zm-2 12c0-.966.784-1.75 1.75-1.75h17.5c.966 0 1.75.784 1.75 1.75v4a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75ZM5.25 3.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h13.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Zm-2 12a.25.25 0 0 0-.25.25v4c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25v-4a.25.25 0 0 0-.25-.25Z"></path><path d="M10 17.75a.75.75 0 0 1 .75-.75h6.5a.75.75 0 0 1 0 1.5h-6.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path>
+</svg>
+      <div>
+        <div class="color-fg-default h4">Codespaces</div>
+        Instant dev environments
+      </div>
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Copilot&quot;,&quot;label&quot;:&quot;ref_cta:Copilot;&quot;}" href="/features/copilot">
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-copilot color-fg-subtle mr-3">
+    <path d="M9.75 14a.75.75 0 0 1 .75.75v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 .75-.75Zm4.5 0a.75.75 0 0 1 .75.75v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 .75-.75Z"></path><path d="M12 2c2.214 0 4.248.657 5.747 1.756.136.099.268.204.397.312.584.235 1.077.546 1.474.952.85.869 1.132 2.037 1.132 3.368 0 .368-.014.733-.052 1.086l.633 1.478.043.022A4.75 4.75 0 0 1 24 15.222v1.028c0 .529-.309.987-.565 1.293-.28.336-.636.653-.966.918a13.84 13.84 0 0 1-1.299.911l-.024.015-.006.004-.039.025c-.223.135-.45.264-.68.386-.46.245-1.122.571-1.941.895C16.845 21.344 14.561 22 12 22c-2.561 0-4.845-.656-6.479-1.303a19.046 19.046 0 0 1-1.942-.894 14.081 14.081 0 0 1-.535-.3l-.144-.087-.04-.025-.006-.004-.024-.015a13.16 13.16 0 0 1-1.299-.911 6.913 6.913 0 0 1-.967-.918C.31 17.237 0 16.779 0 16.25v-1.028a4.75 4.75 0 0 1 2.626-4.248l.043-.022.633-1.478a10.195 10.195 0 0 1-.052-1.086c0-1.331.282-2.498 1.132-3.368.397-.406.89-.717 1.474-.952.129-.108.261-.213.397-.312C7.752 2.657 9.786 2 12 2Zm-8 9.654v6.669a17.59 17.59 0 0 0 2.073.98C7.595 19.906 9.686 20.5 12 20.5c2.314 0 4.405-.594 5.927-1.197a17.59 17.59 0 0 0 2.073-.98v-6.669l-.038-.09c-.046.061-.095.12-.145.177-.793.9-2.057 1.259-3.782 1.259-1.59 0-2.738-.544-3.508-1.492a4.323 4.323 0 0 1-.355-.508h-.344a4.323 4.323 0 0 1-.355.508C10.704 12.456 9.555 13 7.965 13c-1.725 0-2.989-.359-3.782-1.259a3.026 3.026 0 0 1-.145-.177Zm6.309-1.092c.445-.547.708-1.334.851-2.301.057-.357.087-.718.09-1.079v-.031c-.001-.762-.166-1.26-.43-1.568l-.008-.01c-.341-.391-1.046-.689-2.533-.529-1.505.163-2.347.537-2.824 1.024-.462.473-.705 1.18-.705 2.32 0 .605.044 1.087.135 1.472.092.384.231.672.423.89.365.413 1.084.75 2.657.75.91 0 1.527-.223 1.964-.564.14-.11.268-.235.38-.374Zm2.504-2.497c.136 1.057.403 1.913.878 2.497.442.545 1.134.938 2.344.938 1.573 0 2.292-.337 2.657-.751.384-.435.558-1.151.558-2.361 0-1.14-.243-1.847-.705-2.319-.477-.488-1.318-.862-2.824-1.025-1.487-.161-2.192.139-2.533.529-.268.308-.437.808-.438 1.578v.02c.002.299.023.598.063.894Z"></path>
+</svg>
+      <div>
+        <div class="color-fg-default h4">Copilot</div>
+        Write better code with AI
+      </div>
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_cta:Code review;&quot;}" href="/features/code-review">
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-code-review color-fg-subtle mr-3">
+    <path d="M10.3 6.74a.75.75 0 0 1-.04 1.06l-2.908 2.7 2.908 2.7a.75.75 0 1 1-1.02 1.1l-3.5-3.25a.75.75 0 0 1 0-1.1l3.5-3.25a.75.75 0 0 1 1.06.04Zm3.44 1.06a.75.75 0 1 1 1.02-1.1l3.5 3.25a.75.75 0 0 1 0 1.1l-3.5 3.25a.75.75 0 1 1-1.02-1.1l2.908-2.7-2.908-2.7Z"></path><path d="M1.5 4.25c0-.966.784-1.75 1.75-1.75h17.5c.966 0 1.75.784 1.75 1.75v12.5a1.75 1.75 0 0 1-1.75 1.75h-9.69l-3.573 3.573A1.458 1.458 0 0 1 5 21.043V18.5H3.25a1.75 1.75 0 0 1-1.75-1.75ZM3.25 4a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h2.5a.75.75 0 0 1 .75.75v3.19l3.72-3.72a.749.749 0 0 1 .53-.22h10a.25.25 0 0 0 .25-.25V4.25a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <div>
+        <div class="color-fg-default h4">Code review</div>
+        Manage code changes
+      </div>
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_cta:Issues;&quot;}" href="/features/issues">
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-issue-opened color-fg-subtle mr-3">
+    <path d="M12 1c6.075 0 11 4.925 11 11s-4.925 11-11 11S1 18.075 1 12 5.925 1 12 1ZM2.5 12a9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5A9.5 9.5 0 0 0 12 2.5 9.5 9.5 0 0 0 2.5 12Zm9.5 2a2 2 0 1 1-.001-3.999A2 2 0 0 1 12 14Z"></path>
+</svg>
+      <div>
+        <div class="color-fg-default h4">Issues</div>
+        Plan and track work
+      </div>
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Discussions&quot;,&quot;label&quot;:&quot;ref_cta:Discussions;&quot;}" href="/features/discussions">
+      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-comment-discussion color-fg-subtle mr-3">
+    <path d="M1.75 1h12.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 14.25 14H8.061l-2.574 2.573A1.458 1.458 0 0 1 3 15.543V14H1.75A1.75 1.75 0 0 1 0 12.25v-9.5C0 1.784.784 1 1.75 1ZM1.5 2.75v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25Z"></path><path d="M22.5 8.75a.25.25 0 0 0-.25-.25h-3.5a.75.75 0 0 1 0-1.5h3.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 22.25 20H21v1.543a1.457 1.457 0 0 1-2.487 1.03L15.939 20H10.75A1.75 1.75 0 0 1 9 18.25v-1.465a.75.75 0 0 1 1.5 0v1.465c0 .138.112.25.25.25h5.5a.75.75 0 0 1 .53.22l2.72 2.72v-2.19a.75.75 0 0 1 .75-.75h2a.25.25 0 0 0 .25-.25v-9.5Z"></path>
+</svg>
+      <div>
+        <div class="color-fg-default h4">Discussions</div>
+        Collaborate outside of code
+      </div>
+
+    
+</a></li>
+
+            </ul>
+          </div>
+          <div class="px-lg-4">
+              <span class="d-block h4 color-fg-default my-1" id="product-explore-heading">Explore</span>
+            <ul class="list-style-none f5" aria-labelledby="product-explore-heading">
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to All features&quot;,&quot;label&quot;:&quot;ref_cta:All features;&quot;}" href="/features">
+      All features
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Documentation&quot;,&quot;label&quot;:&quot;ref_cta:Documentation;&quot;}" href="https://docs.github.com">
+      Documentation
+
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
+    <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
+</svg>
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to GitHub Skills&quot;,&quot;label&quot;:&quot;ref_cta:GitHub Skills;&quot;}" href="https://skills.github.com/">
+      GitHub Skills
+
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
+    <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
+</svg>
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Blog&quot;,&quot;label&quot;:&quot;ref_cta:Blog;&quot;}" href="https://github.blog">
+      Blog
+
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
+    <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
+</svg>
+</a></li>
+
+            </ul>
+          </div>
+      </div>
+</li>
+
+
+                <li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
+      <button type="button" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-3 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" aria-expanded="false">
+        Solutions
+        <svg opacity="0.5" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-down HeaderMenu-icon ml-1">
+    <path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"></path>
+</svg>
+      </button>
+      <div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 py-2 py-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 px-lg-4">
+          <div class="border-bottom pb-3 mb-3">
+              <span class="d-block h4 color-fg-default my-1" id="solutions-for-heading">For</span>
+            <ul class="list-style-none f5" aria-labelledby="solutions-for-heading">
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_cta:Enterprise;&quot;}" href="/enterprise">
+      Enterprise
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Teams&quot;,&quot;label&quot;:&quot;ref_cta:Teams;&quot;}" href="/team">
+      Teams
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Startups&quot;,&quot;label&quot;:&quot;ref_cta:Startups;&quot;}" href="/enterprise/startups">
+      Startups
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_cta:Education;&quot;}" href="https://education.github.com">
+      Education
+
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
+    <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
+</svg>
+</a></li>
+
+            </ul>
+          </div>
+          <div class="border-bottom pb-3 mb-3">
+              <span class="d-block h4 color-fg-default my-1" id="solutions-by-solution-heading">By Solution</span>
+            <ul class="list-style-none f5" aria-labelledby="solutions-by-solution-heading">
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to CI/CD &amp;amp; Automation&quot;,&quot;label&quot;:&quot;ref_cta:CI/CD &amp;amp; Automation;&quot;}" href="/solutions/ci-cd/">
+      CI/CD &amp; Automation
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to DevOps&quot;,&quot;label&quot;:&quot;ref_cta:DevOps;&quot;}" href="https://resources.github.com/devops/">
+      DevOps
+
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
+    <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
+</svg>
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to DevSecOps&quot;,&quot;label&quot;:&quot;ref_cta:DevSecOps;&quot;}" href="https://resources.github.com/devops/fundamentals/devsecops/">
+      DevSecOps
+
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
+    <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
+</svg>
+</a></li>
+
+            </ul>
+          </div>
+          <div class="">
+              <span class="d-block h4 color-fg-default my-1" id="solutions-resources-heading">Resources</span>
+            <ul class="list-style-none f5" aria-labelledby="solutions-resources-heading">
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Customer Stories&quot;,&quot;label&quot;:&quot;ref_cta:Customer Stories;&quot;}" href="/customer-stories">
+      Customer Stories
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to White papers, Ebooks, Webinars&quot;,&quot;label&quot;:&quot;ref_cta:White papers, Ebooks, Webinars;&quot;}" href="https://resources.github.com/">
+      White papers, Ebooks, Webinars
+
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
+    <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
+</svg>
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Partners&quot;,&quot;label&quot;:&quot;ref_cta:Partners;&quot;}" href="https://partner.github.com/">
+      Partners
+
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
+    <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
+</svg>
+</a></li>
+
+            </ul>
+          </div>
+      </div>
+</li>
+
+
+                <li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
+      <button type="button" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-3 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" aria-expanded="false">
+        Open Source
+        <svg opacity="0.5" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-down HeaderMenu-icon ml-1">
+    <path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"></path>
+</svg>
+      </button>
+      <div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 py-2 py-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 px-lg-4">
+          <div class="border-bottom pb-3 mb-3">
+            <ul class="list-style-none f5" >
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
+      
+      <div>
+        <div class="color-fg-default h4">GitHub Sponsors</div>
+        Fund open source developers
+      </div>
+
+    
+</a></li>
+
+            </ul>
+          </div>
+          <div class="border-bottom pb-3 mb-3">
+            <ul class="list-style-none f5" >
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_cta:The ReadME Project;&quot;}" href="/readme">
+      
+      <div>
+        <div class="color-fg-default h4">The ReadME Project</div>
+        GitHub community articles
+      </div>
+
+    
+</a></li>
+
+            </ul>
+          </div>
+          <div class="">
+              <span class="d-block h4 color-fg-default my-1" id="open-source-repositories-heading">Repositories</span>
+            <ul class="list-style-none f5" aria-labelledby="open-source-repositories-heading">
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_cta:Topics;&quot;}" href="/topics">
+      Topics
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_cta:Trending;&quot;}" href="/trending">
+      Trending
+
+    
+</a></li>
+
+                <li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_cta:Collections;&quot;}" href="/collections">
+      Collections
+
+    
+</a></li>
+
+            </ul>
+          </div>
+      </div>
+</li>
+
+
+                <li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
+    <a class="HeaderMenu-link no-underline px-0 px-lg-2 py-3 py-lg-2 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Pricing&quot;,&quot;label&quot;:&quot;ref_cta:Pricing;&quot;}" href="/pricing">Pricing</a>
+</li>
+
+            </ul>
+          </nav>
+
+        <div class="d-lg-flex flex-items-center mb-3 mb-lg-0 text-center text-lg-left ml-3" style="">
+                
+
+
+<qbsearch-input class="search-input" data-scope="repo:gustavoguanabara/html-css" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="wrQ5k3k932NMwIZ-_PMghuE5g3yEdtsPZkq4Shz7t7ZUEWpow8MLbUrNd4GutcUbUYeHhU5WDMvyn9rPsFYi4g" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="gustavoguanabara/html-css" data-current-org="" data-current-owner="gustavoguanabara" data-logged-in="false">
+  <div
+    class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
+    data-action="click:qbsearch-input#searchInputContainerClicked"
+  >
+      <button
+        type="button"
+        class="header-search-button placeholder  input-button form-control d-flex flex-1 flex-self-stretch flex-items-center no-wrap width-full py-0 pl-2 pr-0 text-left border-0 box-shadow-none"
+        data-target="qbsearch-input.inputButton"
+        placeholder="Search or jump to..."
+        data-hotkey=s,/
+        autocapitalize="off"
+        data-action="click:qbsearch-input#handleExpand"
+      >
+        <div class="mr-2 color-fg-muted">
+          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search">
+    <path d="M10.68 11.74a6 6 0 0 1-7.922-8.982 6 6 0 0 1 8.982 7.922l3.04 3.04a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215ZM11.5 7a4.499 4.499 0 1 0-8.997 0A4.499 4.499 0 0 0 11.5 7Z"></path>
+</svg>
+        </div>
+        <span class="flex-1" data-target="qbsearch-input.inputButtonText">Search or jump to...</span>
+          <div class="d-flex" data-target="qbsearch-input.hotkeyIndicator">
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
+
+          </div>
+      </button>
+
+    <input type="hidden" name="type" class="js-site-search-type-field">
+
+    
+<div class="Overlay--hidden " data-modal-dialog-overlay>
+  <modal-dialog data-action="close:qbsearch-input#handleClose cancel:qbsearch-input#handleClose" data-target="qbsearch-input.searchSuggestionsDialog" role="dialog" id="search-suggestions-dialog" aria-modal="true" aria-labelledby="search-suggestions-dialog-header" data-view-component="true" class="Overlay Overlay--width-large Overlay--height-auto">
+      <h1 id="search-suggestions-dialog-header" class="sr-only">Search code, repositories, users, issues, pull requests...</h1>
+    <div class="Overlay-body Overlay-body--paddingNone">
+      
+          <div data-view-component="true">        <div class="search-suggestions position-fixed width-full color-shadow-large border color-fg-default color-bg-default overflow-hidden d-flex flex-column query-builder-container"
+          style="border-radius: 12px;"
+          data-target="qbsearch-input.queryBuilderContainer"
+          hidden
+        >
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="query-builder-test-form" action="" accept-charset="UTF-8" method="get">
+  <query-builder data-target="qbsearch-input.queryBuilder" id="query-builder-query-builder-test" data-filter-key=":" data-view-component="true" class="QueryBuilder search-query-builder">
+    <div class="FormControl FormControl--fullWidth">
+      <label id="query-builder-test-label" for="query-builder-test" class="FormControl-label sr-only">
+        Search
+      </label>
+      <div class="QueryBuilder-StyledInput width-fit" data-target="query-builder.styledInput">
+          <span id="query-builder-test-leadingvisual-wrap" class="FormControl-input-leadingVisualWrap QueryBuilder-leadingVisualWrap">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search FormControl-input-leadingVisual">
+    <path d="M10.68 11.74a6 6 0 0 1-7.922-8.982 6 6 0 0 1 8.982 7.922l3.04 3.04a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215ZM11.5 7a4.499 4.499 0 1 0-8.997 0A4.499 4.499 0 0 0 11.5 7Z"></path>
+</svg>
+          </span>
+        <div data-target="query-builder.styledInputContainer" class="QueryBuilder-StyledInputContainer">
+          <div
+            aria-hidden="true"
+            class="QueryBuilder-StyledInputContent"
+            data-target="query-builder.styledInputContent"
+          ></div>
+          <div class="QueryBuilder-InputWrapper">
+            <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" data-target="query-builder.input" data-action="
+          input:query-builder#inputChange
+          blur:query-builder#inputBlur
+          keydown:query-builder#inputKeydown
+          focus:query-builder#inputFocus
+        " data-view-component="true" class="FormControl-input QueryBuilder-Input FormControl-medium" />
+          </div>
+        </div>
+          <span class="sr-only" id="query-builder-test-clear">Clear</span>
+          
+  <button role="button" id="query-builder-test-clear-button" aria-labelledby="query-builder-test-clear query-builder-test-label" data-target="query-builder.clearButton" data-action="
+                click:query-builder#clear
+                focus:query-builder#clearButtonFocus
+                blur:query-builder#clearButtonBlur
+              " variant="small" hidden="hidden" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium mr-1 px-2 py-0 d-flex flex-items-center rounded-1 color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill Button-visual">
+    <path d="M2.343 13.657A8 8 0 1 1 13.658 2.343 8 8 0 0 1 2.343 13.657ZM6.03 4.97a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042L6.94 8 4.97 9.97a.749.749 0 0 0 .326 1.275.749.749 0 0 0 .734-.215L8 9.06l1.97 1.97a.749.749 0 0 0 1.275-.326.749.749 0 0 0-.215-.734L9.06 8l1.97-1.97a.749.749 0 0 0-.326-1.275.749.749 0 0 0-.734.215L8 6.94Z"></path>
+</svg>
+</button>  
+
+      </div>
+      <template id="search-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search">
+    <path d="M10.68 11.74a6 6 0 0 1-7.922-8.982 6 6 0 0 1 8.982 7.922l3.04 3.04a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215ZM11.5 7a4.499 4.499 0 1 0-8.997 0A4.499 4.499 0 0 0 11.5 7Z"></path>
+</svg>
+</template>
+
+<template id="code-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+</template>
+
+<template id="file-code-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file-code">
+    <path d="M4 1.75C4 .784 4.784 0 5.75 0h5.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v8.586A1.75 1.75 0 0 1 14.25 15h-9a.75.75 0 0 1 0-1.5h9a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 10 4.25V1.5H5.75a.25.25 0 0 0-.25.25v2.5a.75.75 0 0 1-1.5 0Zm1.72 4.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734l1.47-1.47-1.47-1.47a.75.75 0 0 1 0-1.06ZM3.28 7.78 1.81 9.25l1.47 1.47a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Zm8.22-6.218V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path>
+</svg>
+</template>
+
+<template id="history-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
+    <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"></path>
+</svg>
+</template>
+
+<template id="repo-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo">
+    <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>
+</template>
+
+<template id="bookmark-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bookmark">
+    <path d="M3 2.75C3 1.784 3.784 1 4.75 1h6.5c.966 0 1.75.784 1.75 1.75v11.5a.75.75 0 0 1-1.227.579L8 11.722l-3.773 3.107A.751.751 0 0 1 3 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v9.91l3.023-2.489a.75.75 0 0 1 .954 0l3.023 2.49V2.75a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+</template>
+
+<template id="plus-circle-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-plus-circle">
+    <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7.25-3.25v2.5h2.5a.75.75 0 0 1 0 1.5h-2.5v2.5a.75.75 0 0 1-1.5 0v-2.5h-2.5a.75.75 0 0 1 0-1.5h2.5v-2.5a.75.75 0 0 1 1.5 0Z"></path>
+</svg>
+</template>
+
+<template id="circle-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-dot-fill">
+    <path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path>
+</svg>
+</template>
+
+<template id="trash-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
+    <path d="M11 1.75V3h2.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75ZM4.496 6.675l.66 6.6a.25.25 0 0 0 .249.225h5.19a.25.25 0 0 0 .249-.225l.66-6.6a.75.75 0 0 1 1.492.149l-.66 6.6A1.748 1.748 0 0 1 10.595 15h-5.19a1.75 1.75 0 0 1-1.741-1.575l-.66-6.6a.75.75 0 1 1 1.492-.15ZM6.5 1.75V3h3V1.75a.25.25 0 0 0-.25-.25h-2.5a.25.25 0 0 0-.25.25Z"></path>
+</svg>
+</template>
+
+<template id="team-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
+    <path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"></path>
+</svg>
+</template>
+
+<template id="project-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project">
+    <path d="M1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0ZM1.5 1.75v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25ZM11.75 3a.75.75 0 0 1 .75.75v7.5a.75.75 0 0 1-1.5 0v-7.5a.75.75 0 0 1 .75-.75Zm-8.25.75a.75.75 0 0 1 1.5 0v5.5a.75.75 0 0 1-1.5 0ZM8 3a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-1.5 0v-3.5A.75.75 0 0 1 8 3Z"></path>
+</svg>
+</template>
+
+<template id="pencil-icon">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
+    <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
+</svg>
+</template>
+
+        <div class="position-relative">
+                <ul
+                  role="listbox"
+                  class="ActionListWrap QueryBuilder-ListWrap"
+                  aria-label="Suggestions"
+                  data-action="
+                    combobox-commit:query-builder#comboboxCommit
+                    mousedown:query-builder#resultsMousedown
+                  "
+                  data-target="query-builder.resultsList"
+                  data-persist-list=false
+                  id="query-builder-test-results"
+                ></ul>
+        </div>
+    </div>
+    <div data-target="query-builder.screenReaderFeedback" aria-live="polite" aria-atomic="true" class="sr-only"></div>
+</query-builder></form>
+          <div class="d-flex flex-row color-fg-muted px-3 text-small color-bg-default search-feedback-prompt">
+            <a target="_blank" href="https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax" data-view-component="true" class="Link color-fg-accent text-normal ml-2">
+              Search syntax tips
+</a>            <div class="d-flex flex-1"></div>
+          </div>
+        </div>
+</div>
+
+    </div>
+</modal-dialog></div>
+  </div>
+  <div data-action="click:qbsearch-input#retract" class="dark-backdrop position-fixed" hidden data-target="qbsearch-input.darkBackdrop"></div>
+  <div class="color-fg-default">
+    
+<div class="Overlay--hidden Overlay-backdrop--center" data-modal-dialog-overlay>
+  <modal-dialog data-target="qbsearch-input.feedbackDialog" data-action="close:qbsearch-input#handleDialogClose cancel:qbsearch-input#handleDialogClose" role="dialog" id="feedback-dialog" aria-modal="true" aria-disabled="true" aria-describedby="feedback-dialog-title feedback-dialog-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-medium Overlay--motion-scaleFade">
+    <div data-view-component="true" class="Overlay-header">
+  <div class="Overlay-headerContentWrap">
+    <div class="Overlay-titleWrap">
+      <h1 class="Overlay-title " id="feedback-dialog-title">
+        Provide feedback
+      </h1>
+    </div>
+    <div class="Overlay-actionWrap">
+      <button data-close-dialog-id="feedback-dialog" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg></button>
+    </div>
+  </div>
+</div>
+      <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="yG5sGe7Tzy15CnxRnrldh4hQvY0eYtC8L0u6ygA2O7H341lgfDEkm+UoRGPoHktR5hB0JsNPrrf5ZWlCjyiriA==" />
+          <p>We read every piece of feedback, and take your input very seriously.</p>
+          <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
+          <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
+          <label for="include_email" style="font-weight: normal">Include my email address so I can be contacted</label>
+</form></div>
+      <div data-view-component="true" class="Overlay-footer Overlay-footer--alignEnd">          <button data-close-dialog-id="feedback-dialog" type="button" data-view-component="true" class="btn">    Cancel
+</button>
+          <button form="code-search-feedback-form" data-action="click:qbsearch-input#submitFeedback" type="submit" data-view-component="true" class="btn-primary btn">    Submit feedback
+</button>
+</div>
+</modal-dialog></div>
+
+    <custom-scopes data-target="qbsearch-input.customScopesManager">
+    
+<div class="Overlay--hidden Overlay-backdrop--center" data-modal-dialog-overlay>
+  <modal-dialog data-target="custom-scopes.customScopesModalDialog" data-action="close:qbsearch-input#handleDialogClose cancel:qbsearch-input#handleDialogClose" role="dialog" id="custom-scopes-dialog" aria-modal="true" aria-disabled="true" aria-describedby="custom-scopes-dialog-title custom-scopes-dialog-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-medium Overlay--motion-scaleFade">
+    <div data-view-component="true" class="Overlay-header Overlay-header--divided">
+  <div class="Overlay-headerContentWrap">
+    <div class="Overlay-titleWrap">
+      <h1 class="Overlay-title " id="custom-scopes-dialog-title">
+        Saved searches
+      </h1>
+        <h2 id="custom-scopes-dialog-description" class="Overlay-description">Use saved searches to filter your results more quickly</h2>
+    </div>
+    <div class="Overlay-actionWrap">
+      <button data-close-dialog-id="custom-scopes-dialog" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg></button>
+    </div>
+  </div>
+</div>
+      <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
+
+        <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="2rXOLwLV4gwv8+MWM5bTvfoFyqkE/6WFZmY4tI5Ejq8j5e5aXdh5U4fYTfZITtGlEwuhLyVqGRvu5fJWxqjkbQ==" />
+          <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
+
+          <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
+
+          <div class="form-group">
+            <label for="custom_scope_name">Name</label>
+            <auto-check src="/search/custom_scopes/check_name" required>
+              <input
+                type="text"
+                name="custom_scope_name"
+                id="custom_scope_name"
+                data-target="custom-scopes.customScopesNameField"
+                class="form-control"
+                autocomplete="off"
+                placeholder="github-ruby"
+                required
+                maxlength="50">
+              <input type="hidden" data-csrf="true" value="JJzkJiVewQrM6EJLTdlmOXO/A8L6+3iY02FuytFtSNYZ6xRqBFNEgQw1PpJXMETeiWkRY9loe+y0uvjZ4UGwmQ==" />
+            </auto-check>
+          </div>
+
+          <div class="form-group">
+            <label for="custom_scope_query">Query</label>
+            <input
+              type="text"
+              name="custom_scope_query"
+              id="custom_scope_query"
+              data-target="custom-scopes.customScopesQueryField"
+              class="form-control"
+              autocomplete="off"
+              placeholder="(repo:mona/a OR repo:mona/b) AND lang:python"
+              required
+              maxlength="500">
+          </div>
+
+          <p class="text-small color-fg-muted">
+            To see all available qualifiers, see our <a href="https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax">documentation</a>.
+          </p>
+</form>        </div>
+
+        <div data-target="custom-scopes.manageCustomScopesForm">
+          <div data-target="custom-scopes.list"></div>
+        </div>
+
+</div>
+      <div data-view-component="true" class="Overlay-footer Overlay-footer--alignEnd Overlay-footer--divided">          <button data-action="click:custom-scopes#customScopesCancel" type="button" data-view-component="true" class="btn">    Cancel
+</button>
+          <button form="custom-scopes-dialog-form" data-action="click:custom-scopes#customScopesSubmit" data-target="custom-scopes.customScopesSubmitButton" type="submit" data-view-component="true" class="btn-primary btn">    Create saved search
+</button>
+</div>
+</modal-dialog></div>
+    </custom-scopes>
+  </div>
+</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="IyBKoHw29VhWX7JzE/zKLmuEjPHgLCVPXaZJopGdOmKgmJqrjD0vntTb+sTrCKyhEeVpodQLqIS8/217MwLhiw==" />
+
+
+          <div class="position-relative mr-lg-3 d-lg-inline-block">
+            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fgustavoguanabara%2Fhtml-css%2Fblob%2Fmaster%2Fexercicios%2Fmodulo-01%2Fex010%2Flivro%2Fmeulivro.pdf"
+              class="HeaderMenu-link HeaderMenu-link--sign-in flex-shrink-0 no-underline d-block d-lg-inline-block border border-lg-0 rounded rounded-lg-0 p-2 p-lg-0"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/gustavoguanabara/html-css/blob/master/exercicios/modulo-01/ex010/livro/meulivro.pdf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0c132175ddec65ebf7ec4dd79093597a01ac1d11618a21200ba2bd9bdd7bcd8b"
+              data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
+              Sign in
+            </a>
+          </div>
+
+            <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=gustavoguanabara%2Fhtml-css"
+              class="HeaderMenu-link HeaderMenu-link--sign-up flex-shrink-0 d-none d-lg-inline-block no-underline border color-border-default rounded px-2 py-1"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/gustavoguanabara/html-css/blob/master/exercicios/modulo-01/ex010/livro/meulivro.pdf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0c132175ddec65ebf7ec4dd79093597a01ac1d11618a21200ba2bd9bdd7bcd8b"
+              data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
+            >
+              Sign up
+            </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+      <div hidden="hidden" data-view-component="true" class="js-stale-session-flash flash flash-warn mb-3">
+  
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+        <span class="js-stale-session-flash-signed-in" hidden>You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+        <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+        <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a href="">Reload</a> to refresh your session.</span>
+
+    <button class="flash-close js-flash-close" type="button" aria-label="Close">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+    </button>
+
+  
+</div>
+    </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+
+
+
+
+
+
+    <div id="js-flash-container" data-turbo-replace>
+
+
+
+
+
+  <template class="js-flash-template">
+    
+<div class="flash flash-full   {{ className }}">
+  <div class="px-2" >
+    <button autofocus class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+    </button>
+    <div aria-atomic="true" role="alert" class="js-flash-alert">
+      
+      <div>{{ message }}</div>
+
+    </div>
+  </div>
+</div>
+  </template>
+</div>
+
+
+    
+    <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
+
+
+
+
+
+
+  <div
+    class="application-main "
+    data-commit-hovercards-enabled
+    data-discussion-hovercards-enabled
+    data-issue-and-pr-hovercards-enabled
+  >
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+    <main id="js-repo-pjax-container" >
+      
+      
+
+
+
+
+
+
+  
+  <div id="repository-container-header"  class="pt-3 hide-full-screen" style="background-color: var(--color-page-header-bg);" data-turbo-replace>
+
+      <div class="d-flex flex-wrap flex-justify-end mb-3  px-3 px-md-4 px-lg-5" style="gap: 1rem;">
+
+        <div class="flex-auto min-width-0 width-fit mr-3">
+            
+  <div class=" d-flex flex-wrap flex-items-center wb-break-word f3 text-normal">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo color-fg-muted mr-2">
+    <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>
+    
+    <span class="author flex-self-stretch" itemprop="author">
+      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/gustavoguanabara/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/gustavoguanabara">
+        gustavoguanabara
+</a>    </span>
+    <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
+    <strong itemprop="name" class="mr-2 flex-self-stretch">
+      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/gustavoguanabara/html-css">html-css</a>
+    </strong>
+
+    <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
+  </div>
+
+
+        </div>
+
+        <div id="repository-details-container" data-turbo-replace>
+            <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
+    
+      
+
+  <li>
+            <a href="/login?return_to=%2Fgustavoguanabara%2Fhtml-css" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/gustavoguanabara/html-css/blob/master/exercicios/modulo-01/ex010/livro/meulivro.pdf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="30f2ff3f78bf76f48a1ab0670ef8e2ada2d2efea76356f20c98f2ceb74d6c605" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
+    <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
+</svg>Notifications
+</a>
+  </li>
+
+  <li>
+          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Fgustavoguanabara%2Fhtml-css" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:246128823,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/gustavoguanabara/html-css/blob/master/exercicios/modulo-01/ex010/livro/meulivro.pdf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6019050f29174ad6cdd7df0257bef7bc2859d7e1931dbeb10d7ad63c8ee01f64" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+</svg>Fork
+    <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="2,779" data-view-component="true" class="Counter">2.8k</span>
+</a>
+  </li>
+
+  <li>
+        <div data-view-component="true" class="BtnGroup d-flex">
+        <a href="/login?return_to=%2Fgustavoguanabara%2Fhtml-css" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:246128823,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/gustavoguanabara/html-css/blob/master/exercicios/modulo-01/ex010/livro/meulivro.pdf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="abacb1ae2ac70ecfffea94a987eb2a1946430c96911d3daefb32a56905f95c70" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
+    <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><span data-view-component="true" class="d-inline">
+          Star
+</span>          <span id="repo-stars-counter-star" aria-label="10775 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="10,775" data-view-component="true" class="Counter js-social-count">10.8k</span>
+</a>        <button aria-label="You must be signed in to add this repository to a list" type="button" disabled="disabled" data-view-component="true" class="btn-sm btn BtnGroup-item px-2">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
+    <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
+</svg>
+</button></div>
+  </li>
+
+</ul>
+
+        </div>
+      </div>
+
+        <div id="responsive-meta-container" data-turbo-replace>
+</div>
+
+
+          <nav data-pjax="#js-repo-pjax-container" aria-label="Repository" data-view-component="true" class="js-repo-nav js-sidenav-container-pjax js-responsive-underlinenav overflow-hidden UnderlineNav px-3 px-md-4 px-lg-5">
+
+  <ul data-view-component="true" class="UnderlineNav-body list-style-none">
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="code-tab" href="/gustavoguanabara/html-css" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /gustavoguanabara/html-css" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+    
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
+    <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+        <span data-content="Code">Code</span>
+          <span id="code-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="issues-tab" href="/gustavoguanabara/html-css/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /gustavoguanabara/html-css/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
+    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
+</svg>
+        <span data-content="Issues">Issues</span>
+          <span id="issues-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="260" data-view-component="true" class="Counter">260</span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="pull-requests-tab" href="/gustavoguanabara/html-css/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /gustavoguanabara/html-css/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
+    <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
+</svg>
+        <span data-content="Pull requests">Pull requests</span>
+          <span id="pull-requests-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="17" data-view-component="true" class="Counter">17</span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="actions-tab" href="/gustavoguanabara/html-css/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /gustavoguanabara/html-css/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
+    <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
+</svg>
+        <span data-content="Actions">Actions</span>
+          <span id="actions-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="projects-tab" href="/gustavoguanabara/html-css/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /gustavoguanabara/html-css/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
+    <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
+</svg>
+        <span data-content="Projects">Projects</span>
+          <span id="projects-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="1" data-view-component="true" class="Counter">1</span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="security-tab" href="/gustavoguanabara/html-css/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /gustavoguanabara/html-css/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
+    <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+        <span data-content="Security">Security</span>
+          <include-fragment src="/gustavoguanabara/html-css/security/overall-count" accept="text/fragment+html"></include-fragment>
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="insights-tab" href="/gustavoguanabara/html-css/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /gustavoguanabara/html-css/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
+    <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
+</svg>
+        <span data-content="Insights">Insights</span>
+          <span id="insights-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
+
+
+    
+</a></li>
+</ul>
+    <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">        <details data-view-component="true" class="details-overlay details-reset position-relative">
+    <summary role="button" data-view-component="true">          <div class="UnderlineNav-item mr-0 border-0">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
+</svg>
+            <span class="sr-only">More</span>
+          </div>
+</summary>
+    <details-menu role="menu" data-view-component="true" class="dropdown-menu dropdown-menu-sw">
+          <ul>
+              <li data-menu-item="i0code-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /gustavoguanabara/html-css" href="/gustavoguanabara/html-css">
+                  Code
+</a>              </li>
+              <li data-menu-item="i1issues-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /gustavoguanabara/html-css/issues" href="/gustavoguanabara/html-css/issues">
+                  Issues
+</a>              </li>
+              <li data-menu-item="i2pull-requests-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /gustavoguanabara/html-css/pulls" href="/gustavoguanabara/html-css/pulls">
+                  Pull requests
+</a>              </li>
+              <li data-menu-item="i3actions-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /gustavoguanabara/html-css/actions" href="/gustavoguanabara/html-css/actions">
+                  Actions
+</a>              </li>
+              <li data-menu-item="i4projects-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /gustavoguanabara/html-css/projects" href="/gustavoguanabara/html-css/projects">
+                  Projects
+</a>              </li>
+              <li data-menu-item="i5security-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /gustavoguanabara/html-css/security" href="/gustavoguanabara/html-css/security">
+                  Security
+</a>              </li>
+              <li data-menu-item="i6insights-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /gustavoguanabara/html-css/pulse" href="/gustavoguanabara/html-css/pulse">
+                  Insights
+</a>              </li>
+          </ul>
+</details-menu>
+</details></div>
+</nav>
+
+  </div>
+
+  
+
+
+
+<turbo-frame id="repo-content-turbo-frame" target="_top" data-turbo-action="advance" class="">
+    <div id="repo-content-pjax-container" class="repository-content " >
+    
+
+
+    
+      
+    
+
+
+
+
+
+<react-app
+  app-name="react-code-view"
+  initial-path="/gustavoguanabara/html-css/blob/master/exercicios/modulo-01/ex010/livro/meulivro.pdf"
+  style="min-height: calc(100vh - 62px)"
+  data-ssr="false"
+  data-lazy="false"
+  data-alternate="false"
+>
+  
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"exercicios/modulo-01/ex010/livro":{"items":[{"name":"meulivro.pdf","path":"exercicios/modulo-01/ex010/livro/meulivro.pdf","contentType":"file"},{"name":"meulivro.zip","path":"exercicios/modulo-01/ex010/livro/meulivro.zip","contentType":"file"}],"totalCount":2},"exercicios/modulo-01/ex010":{"items":[{"name":"livro","path":"exercicios/modulo-01/ex010/livro","contentType":"directory"},{"name":"noticias","path":"exercicios/modulo-01/ex010/noticias","contentType":"directory"},{"name":"index.html","path":"exercicios/modulo-01/ex010/index.html","contentType":"file"},{"name":"pag002.html","path":"exercicios/modulo-01/ex010/pag002.html","contentType":"file"}],"totalCount":4},"exercicios/modulo-01":{"items":[{"name":"ex001","path":"exercicios/modulo-01/ex001","contentType":"directory"},{"name":"ex002","path":"exercicios/modulo-01/ex002","contentType":"directory"},{"name":"ex003","path":"exercicios/modulo-01/ex003","contentType":"directory"},{"name":"ex004","path":"exercicios/modulo-01/ex004","contentType":"directory"},{"name":"ex006","path":"exercicios/modulo-01/ex006","contentType":"directory"},{"name":"ex007","path":"exercicios/modulo-01/ex007","contentType":"directory"},{"name":"ex008","path":"exercicios/modulo-01/ex008","contentType":"directory"},{"name":"ex009","path":"exercicios/modulo-01/ex009","contentType":"directory"},{"name":"ex010","path":"exercicios/modulo-01/ex010","contentType":"directory"},{"name":"ex011","path":"exercicios/modulo-01/ex011","contentType":"directory"},{"name":"ex012","path":"exercicios/modulo-01/ex012","contentType":"directory"},{"name":"ex013","path":"exercicios/modulo-01/ex013","contentType":"directory"},{"name":"ex014","path":"exercicios/modulo-01/ex014","contentType":"directory"},{"name":"ex015","path":"exercicios/modulo-01/ex015","contentType":"directory"}],"totalCount":14},"exercicios":{"items":[{"name":"modulo-01","path":"exercicios/modulo-01","contentType":"directory"},{"name":"modulo-02","path":"exercicios/modulo-02","contentType":"directory"},{"name":"modulo-03","path":"exercicios/modulo-03","contentType":"directory"},{"name":"modulo-04","path":"exercicios/modulo-04","contentType":"directory"},{"name":"index.html","path":"exercicios/index.html","contentType":"file"},{"name":"style.css","path":"exercicios/style.css","contentType":"file"}],"totalCount":6},"":{"items":[{"name":"ajude-a-divulgar","path":"ajude-a-divulgar","contentType":"directory"},{"name":"aulas-pdf","path":"aulas-pdf","contentType":"directory"},{"name":"desafios","path":"desafios","contentType":"directory"},{"name":"exercicios","path":"exercicios","contentType":"directory"},{"name":"imagens","path":"imagens","contentType":"directory"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"LICENSE","path":"LICENSE","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"_config.yml","path":"_config.yml","contentType":"file"}],"totalCount":9}},"fileTreeProcessingTime":10.428616,"foldersToFetch":[],"reducedMotionEnabled":null,"repo":{"id":246128823,"defaultBranch":"master","name":"html-css","ownerLogin":"gustavoguanabara","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2020-03-09T19:54:04.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/8683378?v=4","public":true,"private":false,"isOrgOwned":false},"refInfo":{"name":"master","listCacheKey":"v0:1583783647.0","canEdit":false,"refType":"branch","currentOid":"0115692e04eecabda77fb94814d15ccae59f59c9"},"path":"exercicios/modulo-01/ex010/livro/meulivro.pdf","currentUser":null,"blob":{"rawLines":["%PDF-1.3","%���������","4 0 obj","\u003c\u003c /Length 5 0 R /Filter /FlateDecode \u003e\u003e","stream","x\u0001}U;o�0\f��+8�Ct�l�\u0016\u0010d�]","�@�\u00040�!�p�8m�{;W\u0004];\u0016�ڿ[�A�g�\u0002\u000F���ď��\u001D��\u000E\u0012|�V\\�Pf��\u001A�\r|�5L����\u0005a��F;o�B��~�懝%\\$Z�*�%\u001A\u001E�~�'����9Ln��3�������\u001E��\\�$S�r�k�%�D��\u0002���2�\u000B6\b�D�\u0000\u0006�C(�\u0011f9\u0014xv���","Rg�_�","\u0026UeXTO�\u001E���f�\u0002�\r41�\u0002��\u0018R\u0001Q���L�\u0010m��\u0018\u001E��\fW�\r��CXwH�H^�\u0018G�$� ��ø��\u001Ee@R\u0006:\u0006�\u0000�r�\b`\u0018��{9Xi\t�!��\u0026\u003c��m���³0v.!�\u001B$�K\u000EF�\u001A�7�%�\u0005\u0012��AD�\u0017�B�,z$[\u0012a�\u003c\u001E�O\b�;\u0001\u001D�]�@�\u000E\u0017b","j;7ިڣw�1�$�\u000E \u001C��}\u001D\u00183�m�uN5Y\u000F�;�w\u0012����6\u0015I��\u0012�$9vP\r\u001F�f��\u0019�\u0010\u001D�MI �\u0011\u0003�\u0006��mG�e\u001A[���f���['�\u003c�w\u0013��S�ȹ/^8�ܟ�6�ރ#\u000F��k�\u003e��|�aM�0|��ƎpZ1�\u0019\u001Dt1L��������\u0006�\u0016��]b�\u0007�\u00025T��U\u0015��~Y7�y[F'k�\u0019;\f�'��3+\u001B�^M\rv�3\u000E�z�\u0007䬻\u000E�Q�\u0004\u0002���\u0018�\u00071\f�,\"\u0010RQL�\u0004�\u000F��W�\u001Akm\\�{�����d:��6�\fF3W����c�@5$3HBl�lb\u0011Y�\u001AۢRj��+��}�\u0003�O�\fg��?�}@��͈��EGu8[S��A����F","���)E\u003eRx�b��P�)�\u001E)\u003c�HF\u001AZ�aO\u0006\u0026�\t��iX�Z����$}��ώ\u0016uH���RJ\\�x�KŕL5.]��\u001C�b��E}���f�z�/���\f��p�v�я��\u0007�\u001D .���J�l�{�P��\u000F�#�a","endstream","endobj","5 0 obj","779","endobj","2 0 obj","\u003c\u003c /Type /Page /Parent 3 0 R /Resources 6 0 R /Contents 4 0 R /MediaBox [0 0 595.28 841.89]","\u003e\u003e","endobj","6 0 obj","\u003c\u003c /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /ColorSpace \u003c\u003c /Cs1 7 0 R","\u003e\u003e /Font \u003c\u003c /TT1 8 0 R /TT2 9 0 R \u003e\u003e /XObject \u003c\u003c /Im1 10 0 R \u003e\u003e \u003e\u003e","endobj","10 0 obj","\u003c\u003c /Length 11 0 R /Type /XObject /Subtype /Image /Width 309 /Height 309 /Interpolate","true /ColorSpace 7 0 R /Intent /Perceptual /SMask 13 0 R /BitsPerComponent","8 /Filter /FlateDecode \u003e\u003e","stream","x\u0001��1\u0001\u0000\u0000\u0000 �Om\b_�@a��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006\f\u00180`��\u0001\u0003\u0006��\u0001_'\u0000\u0001","endstream","endobj","11 0 obj","1273","endobj","13 0 obj","\u003c\u003c /Length 14 0 R /Type /XObject /Subtype /Image /Width 309 /Height 309 /ColorSpace","/DeviceGray /Interpolate true /BitsPerComponent 8 /Filter /FlateDecode \u003e\u003e","stream","x\u0001�yt\u0014E\u001A���\u000E�L\u0012�p%!\u0004X��,���\u0016\u0016y\u003e\u0005�ǲ\u0010�x��(\u001E�Sp�\u0007\b��\"��]�Z!�����\u000BAw!* �oWD�@�\u0000�H@C�Ip�I\u0026�{�������o����_}U]U]U�\u0010��\u0000\u0010\u0000\u0002@\u0000\b\u0000\u0001 \u0000\u0004�\u0000\u0010\u0000\u0002@\u0000\b\u0000\u0001 \u0000\u0004�\u0000\u0010\u0000\u0002@\u0000\b\u0000\u0001 \u0000\u0004�\u0000\u0010\u0000\u0002@\u0000\b\u0000\u0001 \u0000\u0004�\u0000\u0010\u0000\u0002@\u0000\b\u0000\u0001 \u0000\u0004�\u0000\u0010\u0000\u0002@\u0000\b\u0000\u0001 \u0000\u0004\f%��\u0016HJNi�]��\u0018�s\u001A���ĝ�v�\u0012㽦�Ǹ\u0013.�4����U54���N�����\u001Cz���(/��1\u0018w``�\u0013��,�","�K\u0017�+�����סw^2��\u000F�_t���C�\u000Eh\u001Dj��ޗa�dm\u0005H�v��UA�xM��#k\u0026��YN݂9/��ڡj\u0016(���T�1\u0017閥��|Wܿ�h\rO\"�C�l��#╤�)�3��ϳ\u0004\u0010�\u001CyaB�WSnJ#;�W?����\u0010\u0016�ͧq�]==J3P\u0013�\u0019T\u0018����}r�\bb��\u003e�L`\u001DB����M\r\u0006%q�\u0016��8LdX�j�Z9ƭ$\u001F5a�\u001F�t6��b%$���p5�Ɍ����I\u0015B��\u001Cܷ�����^���'\t8��u\u001F����@i��\u0007ʄ��S�1�W�7\u0006O�q+N���v��o^j�\u0018�9�R�`��C?�}s���\u0012\t�\u001B:�p�IV��\u0007jx#E$\u001Bu^���C�6������Y�Q���?ԋ�P�{zY@\u001D\u001B�X�y�","r�\u00114T�dL�O 79Ύ�A3�I\f�d��","\u0012�2@�6��\u0000+q�,\r�g\u000F�S3k`ܙ�R��\u0014�d�wk����f�S6�a�!ni������y�0��}�JŰG\\�Nߦ\u0013�d� \u001D����\u0014\r�\u000Fם�hF��f�=w�A㈵���\f�4\u0013�\u0010��\u000E\u0019�h�\u0007�\f\fH����a��\u000B�xF؂�%�Hz�\u0026 f{�ϭ\u001D)\u003c������6�E�C��$��^�alƕI�\u001E����k��}�ų�����B0��ǉ�\u0012\\ļӗG\u0012\"d�=���\u0003\"s\u001AW��e��\u0010�;��rŰ��u�\u0012I����hV�x\u0017b|�\u0013�:I2�H^\u0015CE�\b{��\u0017I��)�g�ڳ�s�d\u0018�B\u0018��OʎH\u00121h�\u0019��q���\u0018$\u0015]�#׋h��ן�\u0013�IsI�y$�������X��:)N�P\u0011���\u00186ݤ\u0014\u0010V�\r��ؾ9Z�h�2X��!\u0005�0=�Z�|�H\\3��Lb��Сu���t1N�~���l\u001BR�D\u0013�+��\u0010�\f�T\u0010\u0015��̆��\bY�/Q^\f����-\u0004*�}*�u+��W��\u0006\u0019;ں�V��M��N�V)�y\u003e\u003c99�̏'\u0015q���D�\u0000V��gF�`M��X�X\u0006�|�\u0007�U�c\u0006(\u001A�\u0006n��5\u003c��\u0002N�D�\u0005CȿðD���jX��zK\u0014����\"\u001B��Lz�C���\u001C\u001B'\t�\u001A�ԅ`�\u0011�\u00168�\u0011�\u0013��\r��\u00103`�[P;�\u0017j�y�Q��\u001B��~�}�F�����\u0001�`+̬�a|��,\u0012\u0005�","�\u0007 \u001Ck��\b��_�T-�H\u0014�j���vc#�\u0011#�\t\u0007m�X\f�k\u003e���\u001D��\u0012��l�v|/\u001A\u0005\u003c�0���䞰�Y|���s\b��P���-D\u000Fë;\th���E���\u0002޿��:���n�","I�vj\u001ExxJV�\u0000.�n\u0012��H�\u0018\u0003\u0001��BK�I�d���B\u000BHF�\u0000\u0013�В��$�[��2$�@��\\h��D���\u0000M�\u0011/\u0000m�\u001A��!�'rTA��x{_��[��\u003e]D\u0011�3�\r�\t3\u0019sJ(~�H\u000F�=CX�k�Rz�b�\u0002-�","o;N槴*\u001B%�\u001AW�!��Cރ�","\u0007J��\rv70�\b\u0015�8B�\u0001��2V\u0016eI]Ma�F\u0007���0q��\u001FS7l�\u0002Z��ƾ�wr���V*���j\u0017Ǟ�Đ��T��\u0001Z�H\u000E$���F��YI�\u0001ڏ�\u0013\u0001\u003e�.\u0017G�J���7\rЎw�\u00113�'~M��hV4@�n����xN�\u0005Ӣ\u0010�zZ\t\u001AB�۔�ϐ�ւ�\\��еY\f\u001AB\t��0}\u001Eo9h\b�zY竰\u00157a\u000BBC(���*�%�!�PS\u0017��\t\r��\u0019��[�n\u0011�","\r�̵�ͬ�\u000B\r1Y�u�\u001De\tY\u0018\u001AB��V�Ж��2�Xd�v:�Ck�Y}D�k�\u003c4��U�V';\u0019�Ck���\u0012\u003e","m\u0007h\b�y�N���\u0010�\u001E�\u0010J*\"8��\u000B4�\u001A�Q\u0007\u001D���m�!�yB^�5��\u00114��","�tm���Pj!���6��\u003c\u0013�4�\u003e�\u0004�\u0006\r���\rW6�AC�\t�O*�\u0011\u001Az\\��i\u000B`Khq\u000Fj�\"\u0015ۖ�P�����\u0013\u001A�3�a`ShNC?jfSh���\u000Bv�v���\u000E�B�1rS�]�\u0005�\\�+4��`K��]�%\u0018�k���\u0006Ti�$��v�6��K��","�M)m��oWh�~\u001B��Ю5rl�lOh�CZZ�d\\[Bcn�,��\u0000��6�gML$#�\u0011���lا�o='�*\u001A\u0003�NӲ\u0016\u001B��l�m3h΅A�Z$'����?vZN�5��\u0013��\r�h�!+\u0001�@K�k�\u001B�h�v��\u003cM�B\u0005{@��~������-�\r|��33�@�\u000F���Kp�r\u001B9�Cc\u0016\u0018�2=�^Q\u0026�C�*2�\u0013ֆ�c%�άC۬\f���\tZ��ͺ��\u001E4��\tS��Әp��ks�Eu�������g��ђ��M�Z_\u0005����!kn\u001Eυ�7�-kgU��\u0015Cs\u003ccJ��%�o���\b��:�P\b�3�h���\u0018\u0006s���a\u001AEИ~\u001B��z\u0026�\u0016x\u001F�q\u0012\u003e��\"�\u0012h��H��\u0005\u0010�p5\r�\u0016\bi��\u0002h\u000Bh�v���\u0001��īR.4����eé�q7O�F\u0011\u001Ff��d�:d�Ch5\u001B\u0007*ڭ��ɗd�k�h\u0001Zͧ�_1�I�\u003cs�W\u0026W�N��|�Pi�'��� �\u0014l'�\\#7\u001E++hh\u0014[�6�Veih\u000F\u001D^��\"��5r\u001B5j��\\�\u0018-[�y�v\f","S�N�v���.(L����b�������89:�\\�tf�uQ�\u00136i��\u0015�K�`\u0026N�V7f\u0026m\u001F�i����Y�+��n���\u0006�\u0018�/s��RWd㠡\\LP��j�q�$=J\u001D���w1_�i\u0011�7�N���\u001Eވ�y���\t\u0000G_��\u0017!W!'\u001C\tk�\u000B�Y��n:H\"[�y�g�ČX�\u0014'�G�m7D�\u001A����}�j%��\u0017��2\u0005LZK\u003e\u003c�2������3�`�Z^m��X��,\f�IAg9\u001A�?VT�4�ؗ��\u0018L���6�\u0026���\u0013\u001B��\u001F�W]�\u0002�(��,�\u001Ay_��b��\u000BfIEy�%�(H\\c�aʥ7I��\\P�v�\u0026IEw�{3�!��Yf]�Jz�K�1?E�c�4��","�7ڵ.��4�h�\u0018���n�\u000B�?cD+\u001D\u0001��zل06/m\u001F�\u0014(","1��\\\f%��X","\u0017��\u0011�d�\"\u0017\u0010��\u0019�N{�q�xn\u00012gڬQ\u000F�q\u003c\u003ex��0o��w�\u0026P���W��ĺ��\u0010-�-P\u0014�:�_)���\b�v�0�Ii���B���\r�H�6Q���y�G���ڙ�\u0026�/0�\u0010?��8\u001C\u001A\u00117�Ř׵��E��\u0012�\u0014��\u001D����\u0011u�/�+l\f�T\\.JG���n\f�Zy���@\u0017��_�\u003e�L�\u0026��;\u003c�EE��c%5� +H�\rRhD��3brI�K�1\u000B\u0011H|�i���\u0011*����\u0003���x�l�0=����r���I���r�\u0014 4^�c�Mѳ�\u003cI����\u001E�«�9��5�$�r?;\u0013w�B%���Xx�\u0012\u003er�J\u003e\u0002�r\u003e%V�fet�\u0001��\u0007\u0002hD�ݣ\u000E�U\u001A\"���","��^�W�R����y�u��HDtϫ��l4\\�%[�䚼}�w\u0010i,$3���L]�f\"`=�.$��8��7�O4\u001AY\u001B���Eg��\u0018�T{pq\u000E�4���h��}����k���[��k��\"�+%w\u001D�+\u0006�i��=�/�\u0012i�|��~7.�Sk1�k(Y�U~~aH�x����e�*/\u0014�:A��\u0016Ў�g\u0001};�f�!�~��܉#�/�x�{����B�\u000FU\u0017Z����?,�\u0010\\��%�d�OS�Ql�i��g}�/\u00145Ն����^,�S�u�\u0026:����\u0016]Np𪑬3e̓��{�^���L�Ic1������qƜݻ�\u000F\u0014ܦ|Ϗ��\u001B1q�\u001B�Hot\u000BU~r_��4��ݑ8~�1}\u0026?2R�,���8�v�����_7��Z��\u000B��)�$˩_���{7����\u0015uA\u001AO�zv���\u0004�Ak\u0015��o����OS��ūGS9�ש\u0016���g��:��(�.M�l�N⛗LҠG6���\u001B\u003e��q\u0019���Dk%q���.h�m�W횑M�R���=����6�P�c}cG�؄\u001Dq��ڬ�~݆��\fJ�Ό�]b�l���V�\u000B.x���k�ZH�\t��d����\fJ-ąC�ޙ�Ky�6��J�fM�ȓ�f�-}b�Mbk��\u000F�����u�sE3\u0006��\r","+�5\u001D��~��ڨ��P�}��JO�Y��ڤ��Im�l+\u001Cܿt\u0014�\u0026\\m\u0019�36�����G$@��g�B��\u0000\u0010\u0000\u0002@\u0000\b\u0000\u0001 \u0000\u0004�\u0000\u0010\u0000\u0002@\u0000\b\u0000\u0001 \u0000\u0004�\u0000\u0010\u0000\u0002@\u0000\b\u0000\u0001 \u0000\u0004�\u0000\u0010\u0000\u0002@\u0000\b\u0000\u0001 \u0000\u0004�\u0000\u0010\u0000\u0002@\u0000\b\u0000\u0001 \u0000\u0004�\u0000\u0010\u0000\u0002�\u0010�?+K�h","endstream","endobj","14 0 obj","3910","endobj","15 0 obj","\u003c\u003c /Length 16 0 R /N 3 /Alternate /DeviceRGB /Filter /FlateDecode \u003e\u003e","stream","x\u0001��wTS�\u0016�Ͻ7��\u0012\" %�\u001Az\t �;H\u0015\u0004Q�I�P\u0002��\u0026vD\u0005F\u0014\u0011)VdT�\u0001G�\"cE\u0014\u000B��b�\t�\u0010P��QDE�݌k\t�5�ޚ��Y�����g�}׺\u0000P��\u0004�tX\u0001�4�X\u0014���\\\u0012\u0013���\u0002\u0018\u0010\u0001\u000EX\u0001��ff\u0004G�D\u0002���=���HƳ��.�d��,�P\u0026s���\"7C$\u0006\u0000","E�6\u003c~\u0026\u0017�\u0002�S��\u00192�\u0004���)2�12\u0016�\t��\"�įl���+�ɘ�\u0026�\u001AY�\u0019�4���Pޚ%ᣌ\u0004�\\�%�g�|\u0007e�TI�\u0000��(����L\u00000\u0014�_��\u0026�l�2E\u0014\u0019��\u0002\u0000\b��9�r\u000E��9h�\u0000x�g�\u0004�Ib�\u0011טi���f��S�b1+��M�xL���\f�0\u0017��o�E\u0001%Ym�h���\u001C��Y��h����\u001E~S�=�z�U�\u0026�ϞA��Y�l�/�\u0016\u0000�$Z�\u001D���U\u0000�m\u0006@��O� \u0000�\u0005\u0000�ޜ�\u001E�l^���\f'\u000B���ls\u0001�k.+�7���oʿ�9�����V;�\u0017?�#I\u00153eE妧�KD��\f\u000E��d��\u0010���9i���,���\u0017��UQ�\t��h��\u003c�X�.d","���\u00186'\u0007\u0019~�k\u0014hu_\u0000}�9P�I\u0007�o=\u0000C#\u0003$n?z\u0002}�[\u00101","Ⱦ�h���s�2z���\u001F\u000B\\�n�LA\"S��\f�dr%�,\u0019�߄l�\u0002\u0012�\u0007t�","4�.0\u0002,`\r\u001C�3p\u0003� \u0000��H\u0010\u0003�\u0003.H\u0002i@\u0004�A\u003e�\u0000","A1�\u0001v�jp\u0000ԁz�\u0004N�6p\u0006\\\u0004W�\rp\u000B\f�G@","��K0\u0001ށi\b��\u0010\u0015�A��\u0016�\u000F�B�\u0010\u001BZ\byCAP8\u0014\u0003�C��\u0010�@��\u0026�\u0018*���CP=�#t\u001A�\b]���\u0007� 4\u0006�\u0001}�\u0011�\u0002�a\r�\u0000��ٰ;\u001C\bG���Dx\u0015�\u0007\u0017���J�\u0016\u003e\u000E��\u0017�\u001B�\u0000,�_\b@�\b\u0003�FX\b\u001B�DB�X$\u0001\u0011!k�\"�\u0002�E��\u000E�\u001B��H�q�\u0003\u0006��a�\u0018\u0016�\u0019�Y��bVa�bJ0՘c�VL\u0017�6f\u00103����bձ�X'�?v\t6\u0011��-�V`�`[���\u0003�a�;\u001C\u000E��\u0019�\u001Cp~�\u0018\\2n5�\u0004�\u000F׌����\r�\u0026�x�*�\u0014�\u000F�s�b|!�","\u001C\u001Eߏ\u001Fƿ'�\tZ\u0004k�\u000F!� $l$T\u0010\u001A\b�\b��\u0011�4Q��Ot\"�\u0010y�\\b)���A�I\u001C\u0026N�\u0014I�$\u0017R$)���TIj\"]\u0026=\u0026�!��:dGr\u0018Y@^O�$� _%\u000F�?P�(\u0026\u0014OJ\u001CEB�N9J�@y@yC�R\r�n�X����ZO�D}J}/G�3���ɭ���k��{%O�חw�_.�'_!J����\u0002Q�@�S���V�F��=�IE���b�b�b�b��5�Q%�����\u0012O�@��%�!\u001ABӥyҸ�M�:�e�0\u001DG7��ӓ���\u001F��\te%e[�(�\u001C�\u001A��R\u0006�0`�3R\u0019��������4�����6�i^��)��*n*|�\"�f�\u0001���LUo�\u0014՝�m�O�0j\u0026jaj�j��.��ϧ�w�ϝ_4����갺�z��j���=�\u001A�\u001A�\u001A\u0019\u001AU\u001A�4�5\u0019�n�ɚ��4ǴhZ\u000B�\u0004Z�Z�^0����Tf%��9�����-�\u003e�ݫ=�c��Xg�N��\u0013]�.[7A�\\�SwBOK/X/_�Q�\u003eQ�����G�[��� �`�A�������a�a��c#����*�Z�;�8c�q��\u003e�[\u0026���I�I��MS���T`�ϴ�\fk�h\u00264�5�Ǣ��YY�F֠9�\u003c�|�y��+\u000B=�X��\u0016�\u0016_,�,S-�,\u001FY)Y\u0005Xm�����Ěk]c}ǆj�c�Φ�浭�-�v��};�]��\u0016�N���\u000E�\"�\u0026�1\u0007=�x��\u000E��tv(��}�\u0011������\u0007'{'��I�ߝY�)�\rΣ\u000B\f\u0017�\u0017�-\u0018r�q�\u001Cr�.d.�_xp��Uە�Z���M׍�v�m���=����+\u000FK\u000F�G�ǔ���\u001A�\u000B^���W�W����b�j�\u003e:\u003e�\u003e�\u003e\u0013�v��}/�a�\u0002�v���������O\u00048\u0004�\t�","�\u0004F\u0004V\u0007\u003e\u000B2\t\u0012\u0005u\u0004��\u0001���\u001F/�_$\\�\u0016\u0002B�Cv�\u003c\t5\f]\u0015�s\u0018.,4�\u0026�y�Ux~xw\u0004-bEDCĻH����G��\u0016K\u0016wF�G�E�GME{E�EK�X,Y��F�Z� �=\u0016\u001F\u001B\u0015{$vr����K����","��.3\\����r���Ϯ�_�Yq*\u001E\u001B\u001F\u001D�\u0010��\u0013©�L��_�w�\u0004ד������+��]�e��\u0004�����D��]�cI�I\u0015I�\u0002OA��u�_�䩔���)3�ѩ�i�����B%a��+]3='�/�4�0C��i��U\u0013�@ёL(sYf����L�H�$�%�Y\u000B�j��gGe��Q�\u0011����n�\u001D����~5f5wug�v����5�k\u000E��֮\\۹Nw]������m mH���Fˍe\u001B�n���Q�Q��`h����B�BQ�-�[\u000El�l\u0015l��f��jۗ\"^��b���O%ܒ��Y}W�����������w�v\bw����X�bY^�Ю�]�����W�Va[q`\u000Fi�d��2���J�jGէ��\u001A����{�����׿�m�\u0001�\u0003�\u0007\u003e\u001E\u0014\u001C���Pk�Am�a�����꺿g_D�H��G�G��u�;��7�7�6�Ʊ�q�o���C{\u0013��P3���\u00048!9����\u001F�\f\u003c�y�}��'�����Z�Z���։��6i{L{��ӝ\u001D�\u001D-?��|������gKϑ�\u0015��9�w~�Bƅ�\u0017�:Wt\u003e���ҝ����ˁ��^�r�۽��U��g�9];}�}�����\u001E���_�~i��m��p���㭎�\u0005}��]�/���}���\u001B\u0003�\u0006��.�{�^�=�}���\u0007�\u000F^?�z8�h�c��'","O*��?�����f�����`ϳ�g���C/����O�\u0005ϩ�+F�F�G�Gό���z����ˌ��ㅿ)����ѫ�~w��gb���k��?Jި�9���m�d���wi獵�ޫ�?�����c�Ǒ��O�O���?w|\t��x\u0026mf������","endstream","endobj","16 0 obj","2612","endobj","7 0 obj","[ /ICCBased 15 0 R ]","endobj","18 0 obj","\u003c\u003c /Type /StructTreeRoot /K 17 0 R \u003e\u003e","endobj","17 0 obj","\u003c\u003c /Type /StructElem /S /Document /P 18 0 R /K [ 19 0 R 20 0 R 21 0 R 22 0 R","23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R","34 0 R ]  \u003e\u003e","endobj","19 0 obj","\u003c\u003c /Type /StructElem /S /H /P 17 0 R /Pg 2 0 R /K 1  \u003e\u003e","endobj","20 0 obj","\u003c\u003c /Type /StructElem /S /P /P 17 0 R /Pg 2 0 R /K 2  \u003e\u003e","endobj","21 0 obj","\u003c\u003c /Type /StructElem /S /P /P 17 0 R /Pg 2 0 R /K 3  \u003e\u003e","endobj","22 0 obj","\u003c\u003c /Type /StructElem /S /P /P 17 0 R /Pg 2 0 R /K 4  \u003e\u003e","endobj","23 0 obj","\u003c\u003c /Type /StructElem /S /P /P 17 0 R /Pg 2 0 R /K 5  \u003e\u003e","endobj","24 0 obj","\u003c\u003c /Type /StructElem /S /P /P 17 0 R /Pg 2 0 R /K 6  \u003e\u003e","endobj","25 0 obj","\u003c\u003c /Type /StructElem /S /P /P 17 0 R /Pg 2 0 R /K 7  \u003e\u003e","endobj","26 0 obj","\u003c\u003c /Type /StructElem /S /P /P 17 0 R /Pg 2 0 R /K 8  \u003e\u003e","endobj","27 0 obj","\u003c\u003c /Type /StructElem /S /P /P 17 0 R /Pg 2 0 R /K 9  \u003e\u003e","endobj","28 0 obj","\u003c\u003c /Type /StructElem /S /P /P 17 0 R /Pg 2 0 R /K 10  \u003e\u003e","endobj","29 0 obj","\u003c\u003c /Type /StructElem /S /P /P 17 0 R /Pg 2 0 R /K 11  \u003e\u003e","endobj","30 0 obj","\u003c\u003c /Type /StructElem /S /P /P 17 0 R /Pg 2 0 R /K 12  \u003e\u003e","endobj","31 0 obj","\u003c\u003c /Type /StructElem /S /P /P 17 0 R /Pg 2 0 R /K 13  \u003e\u003e","endobj","32 0 obj","\u003c\u003c /Type /StructElem /S /P /P 17 0 R /Pg 2 0 R /K 14  \u003e\u003e","endobj","33 0 obj","\u003c\u003c /Type /StructElem /S /P /P 17 0 R /Pg 2 0 R /K 15  \u003e\u003e","endobj","34 0 obj","\u003c\u003c /Type /StructElem /S /Figure /P 17 0 R /Pg 2 0 R /K 16  \u003e\u003e","endobj","3 0 obj","\u003c\u003c /Type /Pages /MediaBox [0 0 595.28 841.89] /Count 1 /Kids [ 2 0 R ] \u003e\u003e","endobj","35 0 obj","\u003c\u003c /Type /Catalog /Pages 3 0 R /Version /1.4 /MarkInfo \u003c\u003c /Marked true \u003e\u003e","/StructTreeRoot 18 0 R \u003e\u003e","endobj","12 0 obj","[ 2 0 R /XYZ 0 841.89 0 ]","endobj","8 0 obj","\u003c\u003c /Type /Font /Subtype /TrueType /BaseFont /TCBXOU+Futura-Bold /FontDescriptor","36 0 R /Encoding /MacRomanEncoding /FirstChar 32 /LastChar 120 /Widths [ 340","0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 570","0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 701 0 701 647 0 0","0 0 0 698 305 992 0 700 701 0 0 0 0 0 0 0 742 ] \u003e\u003e","endobj","36 0 obj","\u003c\u003c /Type /FontDescriptor /FontName /TCBXOU+Futura-Bold /Flags 32 /FontBBox","[-227 -344 1459 1099] /ItalicAngle 0 /Ascent 1039 /Descent -260 /CapHeight","754 /StemV 196 /Leading 30 /XHeight 513 /StemH 166 /AvgWidth 646 /MaxWidth","1498 /FontFile2 37 0 R \u003e\u003e","endobj","37 0 obj","\u003c\u003c /Length 38 0 R /Length1 1604 /Filter /FlateDecode \u003e\u003e","stream","x\u0001�T_lSU\u0018�ι��:�v{��A�u���Zz�ލ�u+[\u000B�-�tC\u001Dj֕�l�vݟ֌\u0017%j�'C\b\u000F\u003c�`| \u003c`4YJ��Fbb�\u0013D\t�ك\u000F��dD\u0004M|ho�No\u000Bs�\u0007��s��;�;�����ݛ]�%�\u0016�\u0002\u0007��tl\u000E�B�G��T��I\u0015S����XB�P@�\u001A7TLzQwM��K\u0015\u003c�zo*\u0013���c�w�cK��a\u0005�y6�N��5f�]s�Ŭ����\u0007\u003c�n�-\u001D_�\u001A�\u0005��s\u000B��d���D2�Le�2�\u0013�X��s1\u001DK������)���r;̂\u000E��\u0001��\bE�v(�;z�L�a�\u000F���2�\u001F.�\u001Bf���e�Ԯ\\�.k��m-ڪ��4\rJ\u0001LڟJ�%�vy����\u000E2���\u0017F���a���\u0006\u003e�g��q���\u0000�\u003e���j\u003c,�\u001A���\f���n%��������\u001C^рv��\u001A�CN\u0001�!'\u0017}\u00056C3솓�\u0011܄��D��yr�\\�S","2��\r}�\u001D�\r@�;yэ�L\u003eh�(\u001F҇�z��~[�G[\u0002#8\u0015ж\u000E��(\u001B���;Ia}ee]\u0019#��g߸��%���+=�\u00178\u001F\b�\r��W�VK=56����Q��/�L\b�q[4Zyr�`����;\u0004������Ф'\u001A�\u0016�Qw/�:̏�Д���\u000B8��~O\"�\b{�\u000F�Ŏ\u003e�V}","\u0015_}\u0015߂�[�j�\u0016����0��5C�����!\b\u001D�\u0012��ի�x�DP�u0�\u003c@h��l@gx�t\u000F�*���푄�\u001D�8\u0002�\\��\u003e��M�%\u0026dE\"VKM\u0003i�]ny�/\u0013m'$_�o��鴳Ϙ\u003e��q8u�n�����C��H���6����\u0018J���B�\u00189\u001D\u0010ʜcf�s�\tk)�nYK���G_���H��]��)�/�+\u001B�n1\u0012\b�]�c�g�\u000B�\u0011inQ����D��ʢ\u001Ec����\u0016\u0006\u0006细���uƝ�/�����7�\u003c�����ɘ�\u0019����ک�X\u0014eS��]�)\u003e��\u003c�.��޶�+�\\-�D׫4W����|�??\u0026�\u0019]\f��^�\b��L4�J��fO\u003cl�\t'\u0007\u0007�a�-�\u0014�W@/P�_��ʗs�z\u0015�\u001Dތ�m�|ޛpG��xh�=9����V�xH��9\u0011��Y��*�FI��E��-�",":+��\u001B�l�\u0026�����J��:uO����j��\u0011�\u0004�W�ǂa�","7X�0�����RW[��9��!8\f!x\u000E��Q\u0018�W�ׇB��F�\u001Dg\u00008\u0016�����\b油��ӟI%�\u0002��\u0015�","endstream","endobj","38 0 obj","1078","endobj","9 0 obj","\u003c\u003c /Type /Font /Subtype /TrueType /BaseFont /EBAVNV+Verdana /FontDescriptor","39 0 R /Encoding /MacRomanEncoding /FirstChar 32 /LastChar 151 /Widths [ 352","0 0 0 0 0 0 0 0 0 0 0 0 0 364 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 771","632 575 0 0 0 0 0 0 0 0 0 603 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 601 623 521","623 596 352 623 0 274 0 592 274 973 633 607 623 623 427 521 394 633 592 0","592 0 525 0 0 0 0 0 0 0 0 632 0 0 0 0 0 0 0 601 0 521 596 0 0 0 0 0 0 0 0","607 ] \u003e\u003e","endobj","39 0 obj","\u003c\u003c /Type /FontDescriptor /FontName /EBAVNV+Verdana /Flags 32 /FontBBox [-495 -303 1446 1001]","/ItalicAngle 0 /Ascent 1005 /Descent -210 /CapHeight 727 /StemV 97 /XHeight","545 /StemH 86 /AvgWidth 508 /MaxWidth 1521 /FontFile2 40 0 R \u003e\u003e","endobj","40 0 obj","\u003c\u003c /Length 41 0 R /Length1 12048 /Filter /FlateDecode \u003e\u003e","stream","x\u0001�zy|Tս�9�.sg_23��$��L�I�0�$\u0004\u0012�\u0012\u0012B\u0018 ��� #\t�� �E\u0001i�\u0015$�+\u003e�Z����Ol\u001FC�\u00100�\b\u003e��V�j]�S�u�Ql�G5���9w\u0012\u0010�??��$���Y��|����uk�/F:�\u0005qH^���\u0013��ԇ\u0010\u003e��u\u001E��ρ��K:��R��'\b��KWn\\��5�G�׻lq{�RG�p/]\u0006\rJ\u001D��=s٪u\u001B���\u000B�}+W/J�k�@}ڪ�\r���7�}�b��o�\u0005(\u003c��׮cU4f+�Wv�Y�\u0018�[`=�K��+%\u00060\u0013-E*�=$ �L(��a�\u0006���b�CH {{�/���X�\u0005rI��C?�Σ��3�}8�\u001Dگ�/ёj�A�AM��\u001B\u0010�\u0015\fj�U��l�D'�e�@s�O��=y�RS��G���ٳ���X����{4�z.��\u003e\u0018��x���]����fRߴ�����2��\u001C2�1�oh��\r6~Z]\u0003?�����\u000B�S�\u000B��\u0015� _\u0019��'����p\u001A_\u0015n�'�%�\u0015\u000E\u0005�`q\u0007_\u001C*�C%s��P:���\u000B%\\��G�eM-�\u001B~��1�\u000F���cjc�1�T���w\u001E�e]8z���R\u001E\u003e��,=j���՝�w���@�?���D~ȞR*���*��K\u0006�@����mIn�V�6�\u001E�^�\u003e�V�\u001E����-۶t�{߶}��u\u001B�\u001F�M��5�5D�Y�+5�s��\f\u000E���,�����\u0004-�h�i!��\u001Fn'�\u001Bp���\u0017X�x���Ϸ\u0026�yV\u001Bﶦ�^�d�c���ᝮZ����� o�qI�\\��ɛ��b�:ir�ѐ�F\"֟��u�#nͩ�[\r��\u001Fq󿎸�\u0013\u001179\u0019q�ވ\u001B\u001D��Ϝ�w�z2��k����\u003ey��\u003e��u�\u003e���SO���\u001B݉�O�z���L�[��|b�\tb�\r���v����\u0000��\u0001|�����^I�.�uz\"��#\u0004#2K�}x\u0018�,\u0011\u0014�S\u0015K�po�:�\u000E�#����m�w��\u000ED\u001AZb[�Z�$\u0018�\u0012�1��5\u0026E\u001A\u0013 ����uk�2��\"���Ěe�1�W��V\f�b�U\u0003\u00103R���㘵fY�","�7\u0026Y;�.�Sy\u0011���k^Ǫt-�`E~��.Z�\u000B�\u000B�f\u003e��\u0019�\u000E\r0�N|C�#��݋� !\u0007�!t\u0002�E\u0018\u0015�~t����\u001Et","�n��\u0002��{ѿ�ߣ��g������1\u0014\u001B�S`\u001F����G����$:\u0003m��nh�9��U#W��h/z\u0010=�^�i��3Ċ�\u0015|�t�\u0005�\u0016�ANT���|�\u0016�\u0000�\t�:��C[%�͂�5h\u0003�\u0007ZO�sW�=\u0002V����\u0015�\u0026t\u0004F\u003cŚ���9�\u0003Zi��\u0019mBw�E�@O��\u0000o���hd���\u0013/�u�/���_�Y��/�6ъ4��^�X�\f�h�\u001D��\u001D�_ �-$\u0017�O���0Y��˶�9e�����,�5�b��'\u000B\u003c1.��W�k_��S�̳�W�V]X\u0000�WS��z[\u000B\u000B\u003c�\\��6OMl�-�\u001C;j耘�\u001F#Y5�Z\u0011�w�\u0001��z�Гt�\u0007tܮ��\u003c�cr{\f��\u001C)8�cW�\t-l��:|\u001D��[b\\;��\b��,\u0003��\u001B�ږyb\u003cL�","\u0017�$�H���A髆���\u001D�Փ[�{O�b\u0016�����X-�T��=\u0017��Ʊ�C�;vl��\u001E��ru���immu|\r\rS|S�v���L�Ѷ��ox�B����q$\u0012��Y�扡Y ��~r�+6eWk�Զ\f�\u0007��}Lih\t��fX��K���OF\u000B�\u0012�2�E�{�BW\u000F�\u0003��\u0018i�=�FzlM�g�H���m\u003e���-���đF_d��\u0016O͎�\u0004�\u0012-�\u0014*\u001E!��\u000Fw�\u003e\"���y-'@0=�sZz\b\u0026�۪Z)\u001A��9-W?\u0005OR\u000E\u0000{\u0007\u0026��\u0007��\u0011\u001A\u0012��9����\u000F��\u0012\\@��At����p_�?�V��j","� :��������\u001C:!�`�\u001Bh\u0005\u001B\u000F��","��M\\\u000E�\b}G`l%\\\u0015|\t��wй�0'}N��4��\u0006@2\u0014�\rF\u0018��I�{П����\u0011�}�\u0011Wz8ă��͟�ͦkZT�*5Ȥ\u0016֥�\u003e\u0003\\FЁfdAIȊlȎ��\u0003��\u0026A�\u0005W*\\_��褑�t\u0000ܰ�k�k\u001B�SϸN��u��-�\r{���Å�nR̅���\u001D�8�Eq�j��g�xi���f�V�}Q�S�1 �6c�q�)��a��t����n^k���\u0006�\u0005�\u0015��\u0007D��f=.\u0012\u001E�+�ܟ�c��\"��k΂\u0002è/�\b�+zG\u0000P~\u001A��\u0013�\b\u001C���f,�B�7���1\u001AIS\u0000�1���\u0000�\u0007`\u001E��\u0018��g0�P�/�\u000E6�4�/��-u��d����H\\r�J�\u0005a�\riL\u0026҄D�\u0016ʾ�w��Y\u0001�xL�f���t:�EN���\u0026��mt\u0007ܲ���'[U\u0006���ox�\u0018�\u0001��e-�B%���){\u001E�������s\u0000D��y�N\u0007��tӥ\u0011�=\u0010\u001D�\u0007��#�'\u001C�V�\u0012E\u001F�'�'�-����l\u001Fl5XZVZ*�\u001Cٿ����x��\u0018����M\u001B[��8yr�+��W�\u000F~\u0017�!\u003cNx!\\� ��\u001F\u000F_�\t�|uG~y�\u0014��#�!��\u0016�;�\u000E!�$\u0012����t\u000F���\u0010�4!,�H\u0002į�\u001B�XT[1�5PA�5\u0000�]c�k�+�\u0006@�5\u0000\u001F�]S��\u001A�ԍ���\u001F","¶+�\u0015lǖ��fJKد-q�\u000F\r��W\u0006?��\u0012^�ŗņ^M��\u000B֯F\u000F��Z��mt鄨pH�T\u0012�굄〢/�NF�\u000E�Q���)��/\u0002�=B�O\u0012\u0004�\\�\u0015?��?\u0018\u0000�\u0007�^(\t�m��^�k�H�\u000Fm\u003c�\u001D\u0017�����bX�«�\u0001\u0000M uo�E㭕i\u0011k$m�a�q�Q�R�T\u0026\u0015Q�Ԏ\u0012\r���^���m\u001ET�d�\tJ��k��/�Zƹ�\u0004�^`l\u0007#\u003ed�\u0006�c�N��V{�ް����jFO�\b=\u0001H�S��\tu��\u0000(�\u0004@�\u000E��0$�Wz�B\u0002�\u0001��(�c��h��E��\u003e3 #hO�ۯ�f�@��\u0019/\u003e|�,��ΓS��(-+��Ƨ��@ ��\u001B\u0017=:qƌ�W�\u0017","��\u000Fm��\u0026��\u001A��?P�\u0002p�l�\u001D\u003e�߀�Q1^.��4�/Ec��~\u000B�n\u0001+\u000BY�j��\u003e�`��-mu�m�M�δ�","4Dʭ,2�fb6{��T���\b{���$\r��i8͜\u0013�)f��\u0014��\u0000�e","(8%N��\u0005)�*Œ �����\u0014\u0007#\u000B� �\u0026�#j�m�/�\u001Ala���M����1��!c�\u001D","��1}×\u0019%\u0001�(��#c$��1.m��r\u0019}'�cPBZ��C�Jߧ�1X������Z������J�\u0010�?\u0000\u0004���\u001FQE~���4Dk�\u00047�\u0007�\u0003Q3�t\u0014\u0018{lQ\u0014�p��\u000B���\u0019١\u0012�G�e!E?e�*_����Q�ƙ�(��\u000EZ�O{\"�)7���\u0017W-^��\u001F)������ۮ);����r��揪gw��u�#��+-��s\u000Fv=TX���9�dSN֓�̜��{V��p�`MJnojk�\u0001\u003cp\u0002x`\u001Fx�Iȃ-r^\t\t\u0019'؊\u003cդ�\u0018�ɞ����.�T�A-\u0026W�y\u001DN�E�V�R�R�P\u0000��4Y]@�\u000B#��t]������t}\u0002f\u0002�5�8\u0000��\u0018��e�3�\u0019��R�(!�L\u001E�\u003c�\f�ҩ�\u001B~�\u0018�\u001B\u0000�*fC�\u0006C�SFl\u0000.�Z�.�H���\u0005�N\u0000\u003e���u{��0A-���\u001F��J\u001F\u0013@J1lM�*G\u0005��L�c�J�}@+��Qf_���CK\u0016�����{V�����\u001B�}ꬵu?\u003eB�v�=���0�D�\u000E�\u003c�1~\u003e����k�\rm�L}�Z���\u001Fp�oE^��\u003c���\u0011?�0��3\u001D�q�0�\u001Er��zM���\u003e�ъ�\f��b�\u0026�֐d2Y�:��u�9��'S��d��\u00115��\b�ߒ�0���%3�Nv�\u0019��A\u001A(��\u0004��ӡd(\u0003\ru�aJ�-c\u0004S\u0003�\u0004D-Nq�^\u00149�,�L\u0019Ը�L���\u0007v6CT�\u0016LmY1��\u001B\u001F]��٩u�p������i\u003e\u003e��\u0013�?R~K o�M3�0X;u���\u0005�+�ya��W�?�Z��\u00160\u0003o�\u0004ޜ��M\"gU8�R�y�U�S=-�2�Ӥ�`b\u0016\u001C�\f\u003c�ҫ\u0004��z\u001D]���J�\u00192S,�G|L�HL�X+c$�ϐ\b�ΔΧr!�5F�|B�ܣ�!�e�=.��3I}�q�Og��l���\u0015�\f��x:'��\u0026\t\b\u0000嶫8\u0011\u0018oԓ��H93\u0018���ڂ�0��)\u000E_\u00061S��Ԅ��3_�p~r����s�]S�x{Kw����ڃ��\u0003�\u001EY?e\u0026.��=o͜\u003e++\u0007���0�=����\u003c_K�����6~3��ntN�����\"~��\"}2\u001F�G���g�W�ے7�7�\u001Bp��mL���F?�S�~�ZU�\b\u0002�e���\u00181�b\u0019�N�R��ðJ\u0015q5�Ž`I�`K97x\u00150\u0004k�4�eah�0�Y\u0018Z\u0018�,��B�Öm��\u0013��\u0018N���\u0003�7��v��b���K��\u0015ۀQ=�L��b\u0003~�\u0002̷\r�vbi���5\u001F��,8�*�q�\u001C�_|���x�����k�\u0003c��n(x.�\u0014�z\u001B�hU������i�V��jp�-b:��\u0019y��q�Sf4��[�\u000B\u001C8�a\u001B�\u001A\u0026JfA\u000F���\u0026j��\u0000)W�\u001B��`�Z\u0026r\u0014\u0006,b�=��hF\u0006Yo*3�)�\u001A\u003c��\f�\u0019èv3�LC+�=�\u001A\u001A,T�A�+�s�\u003ct.�])#\u0012Ly*\u0018\f2�\u0007�\u0016�$�p\u0015\u000F\u0005�CA\u0010f\u001C\u0005۔�^\u001Bu#��\bAڕ�\u0019gѸ;�7���]]g�\b/�\u0017nT'}oW���Iܓ\u0007��yE'Q���򓁏|�\b\u0007��ʤ�����E��H�����H�\r8*̳��+�\u0015��B�ǜ!X��\\9�\u0007��\u0014S�\u0014�]T�T*����L���\"\u0016��A�d\u000B�\u001DT�\u0018@�H\u0001Y�\u0010'\u0012\u001D`S.ɳ��|;�)�Aw0\u001C$~�z~F\u0015��a������Ei�`�����\u0010)\u001D(,6Q\u0018�mc��\u0026Q�{\u0014���u�\u0000b�‟�+\u0013�,\u0013�.\r\u0015+,[Z\u001A\u0002?�k�\u000E����\u001E��/�\u003eڠ\u0019s���\u0007\u003e_zӃ\u001B@��L:9���:�G���\u0007{�\u003e����{�K)ɧ,�1y97U/����X����9�E�$�\u0019i����\u000E\u0003\r\u000F�a�Cx�Ş?��p5\u0001\u0013^F8Q\u0010�.5V�\u0003�\u001D�\u000B�D��/y�\u000B��2��\u0026މ\t�\u0015n�\u0012�0b�\u0001`�\u001Bi\u0012�sPW�6\u0000��\u0007� 3\\\u0000\f3?Y�Fy8�\u001EӋ����S'9�B\u0005\f|��0���_���\u000B�3_fA","\u0011$�)\u0010��`?��K�:��\t����بw�4��\u0017‾H+k�h��MXG\b��0TR\u001F#Z\r����\u0011T\u0018\u000B���i:5D��^��˘\u0006�=zYO$��c��x*�\u0014��\t\u001BP|\u0015\u0000\u0012���G�:���\u00151\u0016�\u0014���0��\u0002�\u0014\u000Bw]\u0015�)8\bF��\u003e�_���pE8\fF\u0002�x��ԩM_8�S\u0000\rI�p�f�\u000F�@��͸\u0018�/��M���=0�\u000F�Ѻ�N�:�$��A��\u0013��[\u0001[\u001C���C0�(��Al��m\u0010p\u0003\u001B�0��.�!8U�\b@�������5\u0000\u0012�\u0018f[���^:\u000B�毐�i%FR\u001A�QZ���\u000FK�UA~Y�\f\u001Aŏ��\u0011.��K�Lʫ�Tg\u001F�W�f�,wZ��\\����\tؔ*Ʌ�]XT(\u0017�*�,\u0014���B�d�)�\u00162k�\u001DT_`�\u000F�\u001A?f~,\u0000\u0017e3U5��Y�T*���7�-�o)��f�a���,m��!\u0000\u001C\u0006PLF�0","�MF��Ⴞ���\u0003�\u0017�PǔMG���\u0001����\f��\u0003�\u0015c\u0007\u0000�e/U2\u0026�����^�d�����t��\u0010\u0005\u0000�V�)�\r���x\u0000(ԡ��x�\u001A�\u0026��0K\u0001d\u0003}Sj��$���8S :�$+މ?h\u001AQl","G���G5\u001F��F�\u001F\u0005A�\u0000��\u0018","B T\u001Ee~�y4��m���Uʨ6ŷa�M�ܯ�%7Ϯ?X��","8��\u0019��-�\u0017��IΚ���\u001D\u0026��ޙ�/��L�L\u001F","��Ӷ����'\f���n�khkjk�/H�0N�\u0017\u0000'�q������6Τ���x���ҷz���.�]L\u0017A�Jy��\u0016�\u0004����S6��\u0001e\u0006S�`*�)��oS","��0��X\u0010\t���\\�ot���hs\u0010S�\u0019`d�2j\u0026\\\u0002�~��\u0000�͸\u0012\u0000�z\u0000$dK�\u001E���","5�l","�ΨI\u0001�F��ɣB7Bįy��dL�(\u0001+�����/�8Rn���wJ��E���l��=;?o\u0014��?Ǽ�w��\u0001�Z�\u0014);'\u0018JL%�\t����Tm��%cX��\u0006b3�h\u0016�Ѩ�\u0001S\u001C\u0019�+�\t( Mɝ1�j\u0019\t��2/�u\u0026/��)#\u0017\u0000��\u0001�4ί�\\���\u0018S�)��)�\u0005\u0014\u0011�\fLrh\t\u001E�K�SJ�,� 2�/2�\u0013R{q9�\u0012P\u0004�\u0014J�n��s��\u001CW�I\u0011w\u0015\u0026i���c�Mȗ���H�\u001D\u0013A���\u000F�:\u0010�\b'\u000F�\u0015;N\u001F��G\u000F��12\u0026�Y�i\\���W\u0019?\u0013�쵗^z���^\u0005���w��\u0000�4Zϐ����\u0016�L\u0026u�*O3D�?�6�jF\"u\u0001\"u�V���!@\u0007�0.ND�w��Ϗ��\u0005�;�O�\t���FX��X��OCv`��\u0016�+�\b���3\u0005\u0014��N�{�\f^ɜ1�s��}T�\\\u001B�Ϭ�:�1ww]�\u0015Ͼsz��ُD x(F*�ߙ9mvvn�@���pS���'Ϟ�R\u003e�=��2�u;��Ki���\u0013�J�O�{�s\u0011��i\u001E\u001A�","��;d�Nu\u0010���V%��Κ�F�_ʭL����T+%�\u0004~\u001A�\u00101(�(���%\u0003�E\u0002��~�z�\t�6D�\u003e�Z�s���/;�\u0019h���Y4o�TpRgn��Cw�ox$�A��:pS\f��\u001C����S4�$��K���_�(�ipn\r�v\u00168��\"�\t|0���M�\u0018\u0005�\u0004��\u003eS�\u0000\\�s��F�*[;�D�b*RŤ^�\u001CU","C��|���\u0000�pb\u0012\u0019�\u0011{\t\u001D��f:�\u001A�����X�\u003c\tS3\u0000�CI�t']�\bW{i4�\u0004\u00060\u0000\u0016�ƥJ�ż�����h��K��\u0014B���Z�\u0016\u0014p�4�\u0019��\u001F�џϋ\b*�����½","��b�(�\u0015��e#)�lu~fP]�Y���y�\u0010�7z�\u0003s�����6OG`qкI�2��l�]�߁��ۜ�s��?ri���ǧs[2@�P���Ȟ��`2K\bA�5�S{!����8�)�a��bS�+�t����\u000E�� \u0004b\u0026\u0007��K��!\u000ExRQ�\u0014�\u00199�F]��P\u0001m\u003e\u001EI\u000E��R\u0018A_��\t�3�r\u0014\f�3��\u001C���$�\u000BB]!A�Զ��iU��\u00009�,a\t�+iYꕀ:�H\u000B~T/��\t�}��l2#\tM��LV\"�","��Ь\u0016Ml�\u0026[Fs[�4�@\u000B�ա76??E��z��]��+so\u000F���|��_}��j��?,Z�ǟc���;jkq�\u0003OO�4�~VsUF�C�0��wSͦ�@�X�oCu�3k|\u003e�ΡI��\u0006��8�1\u0019\u0012\u000E¹j�\\�\u0013��_�\u0026�D�V#�\\ɐ��O�J#\u0006�+Mқ\u0018kC\"","�`b^6��Itj$\u0015M$@D��l�\u0026SŒ\t\tY\u0018ao�N��*�����\u0001��+\u0026X�L1��N���A��\u001E\f�.\u0005��\u0003�\u000E\u0017C2��\u0005��`��\u000F 젹�+y\u00182\u0014����z������f�a�Q?�î�\u0018,}�#\r\u0007���\u0007�\\�\"n�KM��\b�\u0000��۱K�j�\u0014�\u0026\u0015G\u0004�Z0C�\u000FKߞ��-nۧr\u001As\u001A�oxk�3�G�~�4\\���\u003eU|6�\u0006�{\u0014O�k���9j��{��R\u0000\u0012nw\"\t8�g�Pl*\u0000�+�NbS�:�$\u0000|�4���jG�r���EB�0SW�TJ\"5�\u001D\u0002��\"�\\���_�\u001F�cO����憺_E�7Gf�z��2��i�� w�\u0004�","p\\\t\u001A�\u000Bp,���l\u003eO,���)|�(�\t�,�\u0016�\u0004At�H��\u0011.\u0017�p�P\u00197\r�r��\u0026\"�Ǉ�9�\tD\"�\u001E\u001C�i��T��/\u0002V��@\u003c�-\u0019%�qI�bn=�s�T�p?T��F!�\u001E�c\u0013\ba�Q%��B�","�\b��\u0018��\u001A`�+^��x��x\u001E\u0006N��g|tp;�\u0011VS\u0001��\u0002�֢w�]j�\u000B[9�ʥ��rT\u0015h\u0002.�J�\u0012�D5A]���\"�����jUD=C3\u000F7q�\u0026�\u003cu�v5n�\u000Bm���%Z�� )L��z\"K�'�@ �F�Q9EAd�\u0001��\u000B\u003c����.���p�+�\u0000c��1`@��4OpJ�\u0000\u0014�����\b\u0018r\u000E�.X���\u0018\u001F�Lk�?�!}4\b(�\u0014�\u0007���Q���2�\u0004����?�\u0005��\r�\u000E\b�\f�[��\u001B�X|�\u0000��+ތ��_�\u001BI!)����6�:�\u001CH�p�\r�Q�fy�M\u001Aυ�i\\�4��#�I]\\��Q����@�4\u0011Ϋ%\u000E�Ky�ޣuk��\u0005���.�@�jL�C","\u000B(\u0004)�rP�TЙ�Ò�!�\rym�����\u0026�s�\u000En��\u001A�\\�;\u0007ϡ�a�\\¤\u0014�\u0000�d����z���\bd����\u0010\u001D��!�F\u0018E\r�\u001D��E0��I%iYl\f�f9|sGOJơ\u000F�z����$\u001F竲��\u000B�\u0002\u0013p�*�5��$\u0010��^9��P\u000E��Ƭ�xI�\u0026�\u003e˦�\\\u0012���}|2�\u001C7nlة��͕j�pk\u003e8�b�\u000B�{�\u0000�\u001EYCD�7��\\K\u0015�(:=���A�x% a�\u0016�\u001E?����qy���0���,����xX\u003c��V�P����","�S*ؐ\u0005T�","\u0000�8q��\u001C�� \u003e��0e�|�3\u0017�4N8~OֺB��%�l!GLi)��\u0014��V'�����\u0006��\u001A��\u0016�\u0018+�s.\u0003�b�\u0005�.����+\u0003\u003e8����Z\u001C#4]\u0001z�f6\u0026I\u0019��iJ��\u00124�_@qg�]�qʔ���\u0019-A� ~\u0016��ur���`H\u0000�\u0003\u0017�\rpT�}I\u001C�C�rT�\u0015߁�k\u00144 ��\u0005b#|�T\u000E߫�����\u0018�\u0014}���hr����`ҷ�nJ�E�\\�\u000F\u0014\u000F\u0004\u0006P Z\f�(���b\u00190��c��\u0003؉��c�CYZ�\u0017h��.��\u0017��SR��!�Y\u001A��\u0007����x��r���y���QNf^��)��\r�\u000B~����o�eB#\u0007_P�\\����\u0004�\u0006MA�h*�C��t4\u0013��\u0017��Q\u0003j��+���˹�\u0005��\u001B@�\u0017�U�]e'ڈv����\u0018�`��\u0010\u0002�\r_g�TMj���o^�������\u0005��6�","endstream","endobj","41 0 obj","7792","endobj","1 0 obj","\u003c\u003c /Title (meulivro) /Producer (��\\000m\\000a\\000c\\000O\\000S\\000 \\000V\\000e\\000r\\000s\\000�\\000o\\000 \\0001\\0000\\000.\\0001\\0005\\000.\\0003\\000 \\000\\(\\000C\\000o\\000m\\000p\\000i\\000l\\000a\\000�\\000�\\000o\\000 \\0001\\0009\\000D\\0007\\0006\\000\\)\\000 \\000Q\\000u\\000a\\000r\\000t\\000z\\000 \\000P\\000D\\000F\\000C\\000o\\000n\\000t\\000e\\000x\\000t)","/Creator (Pages) /CreationDate (D:20200312125637Z00'00') /ModDate (D:20200312125637Z00'00')","\u003e\u003e","endobj","xref","0 42","0000000000 65535 f ","0000021677 00000 n ","0000000894 00000 n ","0000010973 00000 n ","0000000022 00000 n ","0000000875 00000 n ","0000001004 00000 n ","0000009536 00000 n ","0000011220 00000 n ","0000013049 00000 n ","0000001163 00000 n ","0000002656 00000 n ","0000011178 00000 n ","0000002677 00000 n ","0000006779 00000 n ","0000006800 00000 n ","0000009515 00000 n ","0000009626 00000 n ","0000009572 00000 n ","0000009809 00000 n ","0000009881 00000 n ","0000009953 00000 n ","0000010025 00000 n ","0000010097 00000 n ","0000010169 00000 n ","0000010241 00000 n ","0000010313 00000 n ","0000010385 00000 n ","0000010457 00000 n ","0000010530 00000 n ","0000010603 00000 n ","0000010676 00000 n ","0000010749 00000 n ","0000010822 00000 n ","0000010895 00000 n ","0000011062 00000 n ","0000011593 00000 n ","0000011860 00000 n ","0000013028 00000 n ","0000013524 00000 n ","0000013773 00000 n ","0000021656 00000 n ","trailer","\u003c\u003c /Size 42 /Root 35 0 R /Info 1 0 R /ID [ \u003c9edf03cc1ad8b69c97a6310c10b33b94\u003e","\u003c9edf03cc1ad8b69c97a6310c10b33b94\u003e ] \u003e\u003e","startxref","22110","%%EOF"],"stylingDirectives":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/gustavoguanabara/html-css/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null,"repoAlertsPath":"/gustavoguanabara/html-css/security/dependabot","repoSecurityAndAnalysisPath":"/gustavoguanabara/html-css/settings/security_analysis","repoOwnerIsOrg":false,"currentUserCanAdminRepo":false},"displayName":"meulivro.pdf","displayUrl":"https://viewscreen.githubusercontent.com/view/pdf?browser=opera\u0026bypass_fastly=true\u0026color_mode=auto\u0026commit=0115692e04eecabda77fb94814d15ccae59f59c9\u0026device=unknown_device\u0026docs_host=https%3A%2F%2Fdocs.github.com\u0026enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6775737461766f6775616e61626172612f68746d6c2d6373732f303131353639326530346565636162646137376662393438313464313563636165353966353963392f65786572636963696f732f6d6f64756c6f2d30312f65783031302f6c6976726f2f6d65756c6976726f2e706466\u0026logged_in=false\u0026nwo=gustavoguanabara%2Fhtml-css\u0026path=exercicios%2Fmodulo-01%2Fex010%2Flivro%2Fmeulivro.pdf\u0026platform=windows\u0026repository_id=246128823\u0026repository_type=Repository\u0026version=100","headerInfo":{"blobSize":"22.6 KB","deleteInfo":{"deletePath":"https://github.com/gustavoguanabara/html-css/delete/master/exercicios/modulo-01/ex010/livro/meulivro.pdf","deleteTooltip":"You must be signed in to make or propose changes"},"editInfo":{"editTooltip":"You must be signed in to make or propose changes"},"ghDesktopPath":"https://desktop.github.com","gitLfsPath":null,"onBranch":true,"shortPath":"4e9e714","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fgustavoguanabara%2Fhtml-css%2Fblob%2Fmaster%2Fexercicios%2Fmodulo-01%2Fex010%2Flivro%2Fmeulivro.pdf","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":false,"isCodeownersFile":null,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":null,"large":false,"loggedIn":false,"newDiscussionPath":"/gustavoguanabara/html-css/discussions/new","newIssuePath":"/gustavoguanabara/html-css/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/gustavoguanabara/html-css/blob/master/exercicios/modulo-01/ex010/livro/meulivro.pdf","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/gustavoguanabara/html-css/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"renderImageOrRaw":true,"richText":null,"renderedFileInfo":{"identityUUID":"bb6d1153-6580-4ce2-8241-077e2de84f6f","renderFileType":"pdf","size":23108},"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"gustavoguanabara","repoName":"html-css","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":false,"viewable":false,"workflowRedirectUrl":null,"symbols":null},"copilotAccessInfo":null,"csrf_tokens":{"/gustavoguanabara/html-css/branches":{"post":"wSq2cVt53sSTYzVewHkjj7nVmP8DxHkwBDNY_klYw8kj24pWLhMJvKPT3Qw7_zK0UbbY998LgQD8YG7_ywv_3g"}}},"title":"html-css/exercicios/modulo-01/ex010/livro/meulivro.pdf at master · gustavoguanabara/html-css","locale":"en","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-848bb9a5da17.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-4b57095adfc5.js","githubDevUrl":null,"enabled_features":{"virtualize_file_tree":true,"react_repos_overview":true,"code_nav_ui_events":false,"ref_selector_v2":false,"codeview_codemirror_next_editors":false,"blob_firefox_separate_characters":true,"column_symbol_auto_select":true,"copilot_conversational_ux":false,"copilot_conversational_ux_symbols":false,"copilot_popover_file_editor_header":false,"lfs_download_button":true}}}</script>
+  <div data-target="react-app.reactRoot"></div>
+</react-app>
+</turbo-frame>
+
+
+
+  </div>
+
+</turbo-frame>
+
+    </main>
+  </div>
+
+  </div>
+
+          <footer class="footer width-full container-xl p-responsive" role="contentinfo">
+  <h2 class='sr-only'>Footer</h2>
+
+  <div class="position-relative d-flex flex-items-center pb-2 f6 color-fg-muted border-top color-border-muted flex-column-reverse flex-lg-row flex-wrap flex-lg-nowrap mt-6 pt-6">
+    <div class="list-style-none d-flex flex-wrap col-0 col-lg-2 flex-justify-start flex-lg-justify-between mb-2 mb-lg-0">
+      <div class="mt-2 mt-lg-0 d-flex flex-items-center">
+        <a aria-label="Homepage" title="GitHub" class="footer-octicon mr-2" href="https://github.com">
+          <svg aria-hidden="true" height="24" viewBox="0 0 16 16" version="1.1" width="24" data-view-component="true" class="octicon octicon-mark-github">
+    <path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path>
+</svg>
+</a>        <span>
+        &copy; 2023 GitHub, Inc.
+        </span>
+      </div>
+    </div>
+
+    <nav aria-label='Footer' class="col-12 col-lg-8">
+      <h3 class='sr-only' id='sr-footer-heading'>Footer navigation</h3>
+      <ul class="list-style-none d-flex flex-wrap col-12 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0" aria-labelledby='sr-footer-heading'>
+          <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/site-policy/github-terms/github-terms-of-service" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
+          <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/site-policy/privacy-policies/github-privacy-statement" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
+          <li class="mr-3 mr-lg-0"><a data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
+          <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
+          <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
+          <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
+          <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
+          <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
+          <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+      </ul>
+    </nav>
+  </div>
+
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 color-fg-muted"></span>
+  </div>
+</footer>
+
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error" hidden>
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+    <template id="site-details-dialog">
+  <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default hx_rsm" open>
+    <summary role="button" aria-label="Close dialog"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+      </button>
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+    </details-dialog>
+  </details>
+</template>
+
+    <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box color-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+    <template id="snippet-clipboard-copy-button">
+  <div class="zeroclipboard-container position-absolute right-0 top-0">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none m-2">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div>
+</template>
+<template id="snippet-clipboard-copy-button-unpositioned">
+  <div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div>
+</template>
+
+
+
+
+    </div>
+
+    <div id="js-global-screen-reader-notice" class="sr-only" aria-live="polite" ></div>
+  </body>
+</html>
+
+
+
