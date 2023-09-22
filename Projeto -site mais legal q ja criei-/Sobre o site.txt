@@ -1,0 +1,1 @@
+Aqui começo um projeto do site mais legal que ja criei (até este momento). A ideia é simplesmente exercitar e aperfeiçoar todas as técnicas que aprendi em relação a html, css e javascript.
